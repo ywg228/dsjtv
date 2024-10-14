@@ -66,7 +66,7 @@ CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/strea
 CCTV-2财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 中国教育1台,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8 
-CCTV-4K超,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CGTN,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?$1080P
 CGTN,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?$720P
 CGTN纪录,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?$1080P
@@ -139,6 +139,7 @@ CCTV女人时尚,http://www.akw323.com:9527/rtp/238.255.2.27:5999
 CCTV世界地理,http://www.akw323.com:9527/rtp/238.255.2.26:5999
 CCTV天下足球,http://www.akw323.com:9527/rtp/238.255.2.134:5999
 CCTV央视台球,http://www.akw323.com:9527/rtp/238.255.2.224:5999
+CCTV央视文化精品,http://www.akw323.com:9527/rtp/238.255.2.32:5999
 中国教育1台,http://www.akw323.com:9527/rtp/238.255.2.105:5999
 中国教育2台,http://www.akw323.com:9527/rtp/238.255.2.221:5999
 中国教育4台,http://www.akw323.com:9527/rtp/238.255.2.222:5999
@@ -174,7 +175,7 @@ CCTV第一剧场,http://cd.sy012.com:4000/rtp/232.0.0.147:9132
 CCTV怀旧剧场,http://cd.sy012.com:4000/rtp/232.0.0.204:9226
 CCTV风云剧场,http://cd.sy012.com:4000/rtp/232.0.0.52:8610
 CCTV风云足球,http://cd.sy012.com:4000/rtp/232.0.0.90:9286
-CCTV央视精品,http://cd.sy012.com:4000/rtp/232.0.0.107:8698
+CCTV央视文化精品,http://cd.sy012.com:4000/rtp/232.0.0.107:8698
 CCTV风云音乐,http://cd.sy012.com:4000/rtp/232.0.0.108:9288
 CCTV女人时尚,http://cd.sy012.com:4000/rtp/232.0.0.120:8858
 CCTV兵器科技,http://cd.sy012.com:4000/rtp/232.0.0.121:8882
