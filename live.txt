@@ -154,7 +154,7 @@ CGTV法语,http://www.akw323.com:9527/udp/238.255.2.83:5999
 CCTV-1综合,http://cd.sy012.com:4000/rtp/232.0.0.27:8808
 CCTV-2财经,http://cd.sy012.com:4000/rtp/232.0.0.132:9144
 CCTV-3综艺,http://cd.sy012.com:4000/rtp/232.0.0.198:9214
-CCTV-4亚洲,http://cd.sy012.com:4000/rtp/232.0.0.148:9142
+CCTV-4中文国际,http://cd.sy012.com:4000/rtp/232.0.0.148:9142
 CCTV-4欧州,http://cd.sy012.com:4000/rtp/232.0.0.210:9238
 CCTV-4美州,http://cd.sy012.com:4000/rtp/232.0.0.145:9110
 CCTV-5体育,http://cd.sy012.com:4000/rtp/232.0.0.196:9210
@@ -2458,15 +2458,15 @@ QJTV巧家,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8
 
 贵州,#genre#
 贵州卫视,http://www.akw323.com:9527/rtp/238.255.2.1:5999
-贵州卫视2,http://www.akw323.com:9527/rtp/238.255.2.2:5999
-贵州卫视3,http://www.akw323.com:9527/rtp/238.255.2.3:5999
-贵州卫视4,http://www.akw323.com:9527/rtp/238.255.2.4:5999
-贵州卫视5,http://www.akw323.com:9527/rtp/238.255.2.5:5999
-贵州卫视6,http://www.akw323.com:9527/rtp/238.255.2.6:5999
-贵州卫视7,http://www.akw323.com:9527/rtp/238.255.2.9:5999
-贵阳1,http://www.akw323.com:9527/rtp/238.255.2.19:5999
-贵阳2,http://www.akw323.com:9527/rtp/238.255.2.20:5999
-贵阳3,http://www.akw323.com:9527/rtp/238.255.2.22:5999
+贵州-2,http://www.akw323.com:9527/rtp/238.255.2.2:5999
+贵州-3,http://www.akw323.com:9527/rtp/238.255.2.3:5999
+贵州-4,http://www.akw323.com:9527/rtp/238.255.2.4:5999
+贵州-5,http://www.akw323.com:9527/rtp/238.255.2.5:5999
+贵州-6,http://www.akw323.com:9527/rtp/238.255.2.6:5999
+贵州-7,http://www.akw323.com:9527/rtp/238.255.2.9:5999
+贵阳-1,http://www.akw323.com:9527/rtp/238.255.2.19:5999
+贵阳-2,http://www.akw323.com:9527/rtp/238.255.2.20:5999
+贵阳-3,http://www.akw323.com:9527/rtp/238.255.2.22:5999
 贵州移动电视,http://www.akw323.com:9527/rtp/238.255.2.117:5999
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 松桃综艺,http://live.strmtzx.cn/stzy/sd/live.m3u8
