@@ -754,7 +754,7 @@ NewTV武博世界,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 浙江留学世界,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
-浙江之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 杭州萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 杭州余杭平安,http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
 杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
