@@ -1249,8 +1249,8 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 成都经济资讯,http://aqp.x3322.net:4000/rtp/239.93.0.17:1239
 成都都市生活,http://aqp.x3322.net:4000/rtp/239.93.0.18:1238
 成都影视文艺,http://aqp.x3322.net:4000/rtp/239.93.0.19:1250
-成都公共频道,http://aqp.x3322.net:4000/rtp/239.93.1.231:5140
-成都少儿频道,http://aqp.x3322.net:4000/rtp/239.93.0.21:1251
+成都公共,http://aqp.x3322.net:4000/rtp/239.93.1.231:5140
+成都少儿,http://aqp.x3322.net:4000/rtp/239.93.0.21:1251
 成都体育,http://aqp.x3322.net:4000/rtp/239.93.0.224:1281
 四川文化旅游,http://wqeeeee.x3322.net:4000/rtp/239.93.1.102:5140
 四川经济,http://wqeeeee.x3322.net:4000/rtp/239.93.1.101:5140
