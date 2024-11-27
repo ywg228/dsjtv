@@ -673,6 +673,18 @@ TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
+緯來日本台,rtmp://f13h.mine.nu/sat/tv771
+MOMOTV綜合台,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
