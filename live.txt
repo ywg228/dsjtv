@@ -842,10 +842,10 @@ NEWTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 浙江教科影视,http://nas.jc-hqp.cn:9999/rtp/233.50.201.134:5140
 浙江公共新闻,http://nas.jc-hqp.cn:9999/rtp/233.50.201.137:5140
 浙江少儿,http://nas.jc-hqp.cn:9999/rtp/233.50.201.138:5140
-宁波1台,http://nas.jc-hqp.cn:9999/rtp/233.50.201.168:5140
-宁波2台,http://nas.jc-hqp.cn:9999/rtp/233.50.201.178:5140
-宁波3台,http://nas.jc-hqp.cn:9999/rtp/233.50.201.179:5140
-宁波4台,http://nas.jc-hqp.cn:9999/rtp/233.50.201.180:5140
+宁波新闻综合,http://nas.jc-hqp.cn:9999/rtp/233.50.201.168:5140
+宁波经济生活,http://nas.jc-hqp.cn:9999/rtp/233.50.201.178:5140
+宁波都市文体,http://nas.jc-hqp.cn:9999/rtp/233.50.201.179:5140
+宁波影视剧,http://nas.jc-hqp.cn:9999/rtp/233.50.201.180:5140
 
 
 四川,#genre#
