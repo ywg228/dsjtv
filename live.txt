@@ -1250,7 +1250,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 攀枝花新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
-攀枝花生活文旅,https://live.pzhkai.com/wlshtl/sd/live.m3u8
+攀枝花文旅生活,https://live.pzhkai.com/wlshtl/sd/live.m3u8
 内江综合,https://www.scnj.tv/hls_njtv_direct/1.m3u8
 内江综合,https://njzb.scnj.tv/hls_njtv_direct/1.m3u8
 内江科教生活,https://www.scnj.tv/hls_njtv_direct/9.m3u8
