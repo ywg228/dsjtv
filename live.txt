@@ -655,6 +655,13 @@ MOMOTV綜合台,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
 
+翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+千禧經典台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
+Astro華麗台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
+Astro劇集台,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
+
 Now爆谷台,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 Now星影台,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 TVB星河,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8
