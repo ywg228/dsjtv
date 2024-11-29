@@ -975,16 +975,8 @@ NEWTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 
 
 江苏,#genre#
-江苏卫视,http://grh0000.f3322.org:4022/udp/239.49.8.16:9602
-江苏新闻,http://grh0000.f3322.org:4022/udp/239.49.8.120:8000
-江苏城市,http://grh0000.f3322.org:4022/udp/239.49.8.107:8000
-江苏综艺,http://grh0000.f3322.org:4022/udp/239.49.8.108:8000
-江苏影视,http://grh0000.f3322.org:4022/udp/239.49.8.118:8000
-江苏体育休闲,http://grh0000.f3322.org:4022/udp/239.49.8.117:8000
-江苏教育,http://grh0000.f3322.org:4022/udp/239.49.8.122:8000
-江苏国际,http://grh0000.f3322.org:4022/udp/239.49.0.22:8168
-江苏国际,http://grh0000.f3322.org:4022/udp/239.49.1.23:6000
 江苏卫视,http://xurishangcheng.top:4022/udp/239.49.8.16:9602
+江苏卫视,http://xurishangcheng.top:4022/udp/239.49.8.138:6000
 江苏新闻,http://xurishangcheng.top:4022/udp/239.49.8.120:8000
 江苏综艺,http://xurishangcheng.top:4022/udp/239.49.8.108:8000
 江苏城市,http://xurishangcheng.top:4022/udp/239.49.8.107:8000
@@ -993,7 +985,20 @@ NEWTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 江苏教育,http://xurishangcheng.top:4022/udp/239.49.8.122:8000
 江苏国际,http://xurishangcheng.top:4022/udp/239.49.0.22:8168
 江苏国际,http://xurishangcheng.top:4022/udp/239.49.1.23:6000
+优漫卡通,http://xurishangcheng.top:4022/udp/239.49.8.119:8000
+江苏卫视,http://grh0000.f3322.org:4022/udp/239.49.8.16:9602
+江苏卫视,http://grh0000.f3322.org:4022/udp/239.49.8.138:6000
+江苏新闻,http://grh0000.f3322.org:4022/udp/239.49.8.120:8000
+江苏城市,http://grh0000.f3322.org:4022/udp/239.49.8.107:8000
+江苏综艺,http://grh0000.f3322.org:4022/udp/239.49.8.108:8000
+江苏影视,http://grh0000.f3322.org:4022/udp/239.49.8.118:8000
+江苏体育休闲,http://grh0000.f3322.org:4022/udp/239.49.8.117:8000
+江苏教育,http://grh0000.f3322.org:4022/udp/239.49.8.122:8000
+江苏国际,http://grh0000.f3322.org:4022/udp/239.49.0.22:8168
+江苏国际,http://grh0000.f3322.org:4022/udp/239.49.1.23:6000
+优漫卡通,http://grh0000.f3322.org:4022/udp/239.49.8.119:8000
 江苏卫视,http://lijiahe.cn:8888/udp/239.49.8.16:9602
+江苏卫视,http://lijiahe.cn:8888/udp/239.49.8.138:6000
 江苏城市,http://lijiahe.cn:8888/udp/239.49.8.107:8000
 江苏影视,http://lijiahe.cn:8888/udp/239.49.8.118:8000
 江苏体育休闲,http://lijiahe.cn:8888/udp/239.49.8.117:8000
@@ -1003,6 +1008,7 @@ NEWTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 江苏国际,http://lijiahe.cn:8888/udp/239.49.1.23:6000
 江苏城市,http://kms.yzcancer.cn:8888/udp/239.49.8.107:8000
 江苏影视,http://kms.yzcancer.cn:8888/udp/239.49.8.118:8000
+优漫卡通,http://kms.yzcancer.cn:8888/udp/239.49.8.119:8000
 
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
