@@ -774,7 +774,7 @@ Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
-数字,#genre#
+影视,#genre#
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
