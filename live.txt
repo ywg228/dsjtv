@@ -143,6 +143,7 @@ CCTV-15音乐,http://vpn.rogerxlj.top:9998/rtp/239.45.0.20:5140
 CCTV-16奥林匹克,http://vpn.rogerxlj.top:9998/rtp/239.45.0.10:5140
 CCTV-16奥林匹克,http://vpn.rogerxlj.top:9998/rtp/239.45.0.12:5140
 CCTV-17农业农村,http://vpn.rogerxlj.top:9998/rtp/239.45.3.52:5140
+CCTV-4K超高清,http://vpn.rogerxlj.top:9998/rtp/239.45.0.55:5140 
 中国教育1台,http://vpn.rogerxlj.top:9998/rtp/239.45.1.125:5140
 中国教育4台,http://vpn.rogerxlj.top:9998/rtp/239.45.0.21:5140
 
