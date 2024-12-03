@@ -2438,7 +2438,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
-豆瓣精选,#genre#
+经典电影,#genre#
 肖生克的救赎,https://vip.ffzy-play7.com/20221112/3323_ae6adba8/index.m3u8
 阿甘正传,https://vip.ffzy-play7.com/20221112/3707_e9e276f6/index.m3u8
 这个杀手不太冷,https://vip.ffzy-play7.com/20221129/7736_cf112b14/2000k/hls/mixed.m3u8
@@ -2479,7 +2479,6 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 阿凡达,https://vip.ffzy-play10.com/20221215/3326_af2d277e/2000k/hls/mixed.m3u8
 加勒比海盗,https://vip.ffzy-play7.com/20221230/10423_881d8359/2000k/hls/mixed.m3u8
 
-经典电影,#genre#
 双龙会,https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
 赌侠1990,https://txmov2.a.kwimgs.com/upic/2021/12/27/23/BMjAyMTEyMjcyMzE0NTFfNDAzMDAxOTlfNjM2NTMxODUxMDBfMF8z_bF_Bdb9e531cd6e9c71bb366fe9c16429985.mp4
 赌侠1999,https://txmov2.a.kwimgs.com/upic/2021/02/07/10/BMjAyMTAyMDcxMDEzMzZfNDAzMDAxOTlfNDM3MzM4MjMzMzBfMF8z_b_B4a59a2352495fc067341ccd71f7682b5.mp4
