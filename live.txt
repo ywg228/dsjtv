@@ -2480,10 +2480,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 加勒比海盗,https://vip.ffzy-play7.com/20221230/10423_881d8359/2000k/hls/mixed.m3u8
 
 经典电影,#genre#
-醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 双龙会,https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
-黄飞鸿之狮王争霸,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
-黄飞鸿之男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
 赌侠1990,https://txmov2.a.kwimgs.com/upic/2021/12/27/23/BMjAyMTEyMjcyMzE0NTFfNDAzMDAxOTlfNjM2NTMxODUxMDBfMF8z_bF_Bdb9e531cd6e9c71bb366fe9c16429985.mp4
 赌侠1999,https://txmov2.a.kwimgs.com/upic/2021/02/07/10/BMjAyMTAyMDcxMDEzMzZfNDAzMDAxOTlfNDM3MzM4MjMzMzBfMF8z_b_B4a59a2352495fc067341ccd71f7682b5.mp4
 绝代双骄,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTI1NTZfNDAzMDAxOTlfNjM2NjgzNTczODVfMF8z_bF_Bc720676583ca56b0ef29756139ed2471.mp4
@@ -2543,9 +2540,17 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 双龙会,https://vip.ffzy-play6.com/20221112/6064_afbd5214/index.m3u8
 龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
 龙门飞甲,https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
-黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
-黄飞鸿之铁鸡斗蜈蚣,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
 黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
+黄飞鸿之二：男儿当自强,https://txmov2.a.kwimgs.com/upic/2020/05/16/01/BMjAyMDA1MTYwMTAyMjFfMjEyNDgzMjg2XzI4NjI3OTAwNTc5XzJfMw==_b_Bc1101c249e7355d840c4495b7bfd84a4.mp4
+黄飞鸿之三：狮王争霸,https://alimov2.a.kwimgs.com/upic/2020/05/15/08/BMjAyMDA1MTUwODQ5NTdfMjEyNDgzMjg2XzI4NTc1ODg4MzEyXzJfMw==_b_Bd4d927d62d45dd2f3e065114d9aebb25.mp4
+黄飞鸿之四：王者之风,https://alimov2.a.kwimgs.com/upic/2021/11/06/17/BMjAyMTExMDYxNzE1MzRfMTQ1NzgzMzI4N182MDM2MDU4MTU3MF8yXzM=_b_Bc78ef882118f774e4ca6517aea188383.mp4
+黄飞鸿之五：龙城歼霸,https://txmov2.a.kwimgs.com/upic/2021/11/04/19/BMjAyMTExMDQxOTQ0NThfMTQ1NzgzMzI4N182MDI0Mjg1MDA3NF8yXzM=_b_Bfafd4b1196edf6b2fdc228d4295b8e45.mp4
+黄飞鸿之铁鸡斗蜈蚣,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634242822045870_hlsb.m3u8
+黄飞鸿之壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
+黄飞鸿之二：男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
+黄飞鸿之三：狮王争霸,https://cdn1.yzzy-tv-cdn.com/20220517/cZrm0twN/index.m3u8
+黄飞鸿之铁鸡斗蜈蚣,https://cdn2.yzzy-tv-cdn.com/20220415/13227_56714be0/index.m3u8
+黄飞鸿之西域雄狮,https://cdn1.yzzy-tv-cdn.com/20220415/eAed3SPA/index.m3u8
 义胆雄心,http://jsmov2.a.yximgs.com/bs3/video-hls/5237686462055775486_hlsb.m3u8
 义胆雄心,https://vip.ffzy-play7.com/20221129/7714_a0c75de1/index.m3u8
 东成西就,http://jsmov2.a.yximgs.com/bs3/video-hls/5235434664056492833_hlsb.m3u8
@@ -2573,10 +2578,6 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
 中南海保镖,https://cdn12.yzzy-tv-cdn.com/20221209/8943_e3bd0850/index.m3u8
 杀手之王,https://cdn10.yzzy-tv-cdn.com/20221023/2307_200a0670/index.m3u8
 太极张三丰,https://cdn8.yzzy-tv-cdn.com/20220713/4780_8d927b57/index.m3u8
-黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
-黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
-黄飞鸿之三:狮王争霸,https://cdn1.yzzy-tv-cdn.com/20220517/cZrm0twN/index.m3u8
-黄飞鸿之西域雄狮,https://cdn1.yzzy-tv-cdn.com/20220415/eAed3SPA/index.m3u8
 冒险王,https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
 精武英雄,https://cdn5.yzzy-tv-cdn.com/20220607/22255_9e00edb7/index.m3u8
 少林寺,https://cdn4.yzzy-tv-cdn.com/20220606/17324_133ab69b/index.m3u8
