@@ -2435,7 +2435,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 阿凡达,https://vip.ffzy-play10.com/20221215/3326_af2d277e/2000k/hls/mixed.m3u8
 加勒比海盗,https://vip.ffzy-play7.com/20221230/10423_881d8359/2000k/hls/mixed.m3u8
 
-电影精选,#genre#
+经典电影,#genre#
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
 双龙会,https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
