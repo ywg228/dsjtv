@@ -1472,10 +1472,8 @@ IPTV大健康,http://221.219.97.2:4022/rtp/239.3.1.251:8001
 安徽,#genre#
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽经济生活,http://mmitv.top/test/ahtv.php?id=12
@@ -1848,18 +1846,23 @@ IPTV大健康,http://221.219.97.2:4022/rtp/239.3.1.251:8001
 
 
 体育,#genre#
-CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/index.m3u8?fmt=ts2hls
+CCTV-5体育,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000005
+CCTV-5+体育赛事,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000507
+CCTV-16奥林匹克,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000016
+高尔夫网球,http://nas.hssvm.com:8888/rtp/225.1.2.169:5002
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+广东体育,http://119.145.76.245:10000/rtp/239.77.0.112:5146
+广东体育,http://116.28.98.47:10001/rtp/239.77.0.112:5146
+广东体育,http://113.111.16.97:8889/rtp/239.77.0.112:5146
+广东体育,http://113.111.16.104:8889/rtp/239.77.0.112:5146
+广东体育,http://183.48.74.210:8888/rtp/239.10.0.47:1025
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-广东体育,http://183.17.239.28:8888/rtp/239.77.0.112:5146
 五星体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000029972
 Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+
 
 影视轮播,#genre#
 综合频道1,http://zby.xjqxz.top/zh01/live.m3u8
