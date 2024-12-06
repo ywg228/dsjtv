@@ -1376,7 +1376,7 @@ SiTV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000110
 SiTV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000004412
 SiTV动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
 SiTV动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000023636
-SiTV法治天地,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000014
+SiTV法治天地,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
 SiTV金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 SiTV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 SiTV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000006000040025
