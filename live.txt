@@ -723,8 +723,8 @@ myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
 MOMOTV綜合台,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
+DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
+DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
 
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -2004,40 +2004,41 @@ Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaispor
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 
 
-影视轮播,#genre#
-综合频道1,http://zby.xjqxz.top/zh01/live.m3u8
-综合频道2,http://zby.xjqxz.top/zh02/live.m3u8
-综合频道3,http://zby.xjqxz.top/zh03/live.m3u8
-综合频道4,http://zby.xjqxz.top/zh04/live.m3u8
-综合频道5,http://zby.xjqxz.top/zh05/live.m3u8
-综合频道6,http://zby.xjqxz.top/zh06/live.m3u8
-综合频道7,http://zby.xjqxz.top/zh07/live.m3u8
-综合频道8,http://zby.xjqxz.top/zh08/live.m3u8
-综合频道9,http://zby.xjqxz.top/zh09/live.m3u8
-综合频道10,http://zby.xjqxz.top/zh10/live.m3u8
-综合频道11,http://zby.xjqxz.top/zh11/live.m3u8
-综合频道12,http://zby.xjqxz.top/zh12/live.m3u8
-综合频道13,http://zby.xjqxz.top/zh13/live.m3u8
-综合频道14,http://zby.xjqxz.top/zh14/live.m3u8
-综合频道15,http://zby.xjqxz.top/zh15/live.m3u8
-港片1轮播,http://zby.xjqxz.top/hkdy1/live.m3u8
-港片2轮播,http://zby.xjqxz.top/hkdy2/live.m3u8
+轮播,#genre#
+综合1,http://zby.xjqxz.top/zh01/live.m3u8
+综合2,http://zby.xjqxz.top/zh02/live.m3u8
+综合3,http://zby.xjqxz.top/zh03/live.m3u8
+综合4,http://zby.xjqxz.top/zh04/live.m3u8
+综合5,http://zby.xjqxz.top/zh05/live.m3u8
+综合6,http://zby.xjqxz.top/zh06/live.m3u8
+综合7,http://zby.xjqxz.top/zh07/live.m3u8
+综合8,http://zby.xjqxz.top/zh08/live.m3u8
+综合9,http://zby.xjqxz.top/zh09/live.m3u8
+综合10,http://zby.xjqxz.top/zh10/live.m3u8
+综合11,http://zby.xjqxz.top/zh11/live.m3u8
+综合12,http://zby.xjqxz.top/zh12/live.m3u8
+综合13,http://zby.xjqxz.top/zh13/live.m3u8
+综合14,http://zby.xjqxz.top/zh14/live.m3u8
+综合15,http://zby.xjqxz.top/zh15/live.m3u8
+港片1,http://zby.xjqxz.top/hkdy1/live.m3u8
+港片2,http://zby.xjqxz.top/hkdy2/live.m3u8
 国产院线1,http://zby.xjqxz.top/live18/live.m3u8
 国产院线2,http://zby.xjqxz.top/gcwx2/live.m3u8
 国产院线3,http://zby.xjqxz.top/gcwx3/live.m3u8
 国产院线4,http://zby.xjqxz.top/gcwx4/live.m3u8
 国产院线5,http://zby.xjqxz.top/gcwx5/live.m3u8
-周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
-李连杰专辑轮播,http://zby.xjqxz.top/lljdy/live.m3u8
-成龙专辑轮播,http://zby.xjqxz.top/cldy/live.m3u8
-好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
-中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
-抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
-谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
-谍战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
-谍战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
-谍战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
-谍战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
+成龙,http://zby.xjqxz.top/cldy/live.m3u8
+4K影院,http://zby.xjqxz.top/4kyy/live.m3u8
+好莱坞大片,http://zby.xjqxz.top/hlwdy1/live.m3u8
+经典喜剧,http://zby.xjqxz.top/live13/live.m3u8
+抗战专用,http://zby.xjqxz.top/kzzypd/live.m3u8
+谍战专用,http://zby.xjqxz.top/dzzypd/live.m3u8
+谍战专用2,http://zby.xjqxz.top/dzzypd2/live.m3u8
+谍战专用3,http://zby.xjqxz.top/dzzypd3/live.m3u8
+谍战专用4,http://zby.xjqxz.top/dzzypd4/live.m3u8
+谍战专用5,http://zby.xjqxz.top/dzzypd5/live.m3u8
 古装武侠剧,http://zby.xjqxz.top/gzwxj/live.m3u8
 古装电视剧1,http://zby.xjqxz.top/gzdsj1/live.m3u8
 古装电视剧2,http://zby.xjqxz.top/gzdsj2/live.m3u8
@@ -2049,7 +2050,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 都市电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
 破案警匪,http://zby.xjqxz.top/pajf/live.m3u8
 寻情记,http://zby.xjqxz.top/xqj/live.m3u8
-007全集轮播,http://zby.xjqxz.top/live5/live.m3u8
+007全集,http://zby.xjqxz.top/live5/live.m3u8
 精彩电视剧,http://zby.xjqxz.top/dsj/live.m3u8
 长安十二时辰,http://zby.xjqxz.top/casrsc/live.m3u8
 三生三世枕上书,http://zby.xjqxz.top/sssszss/live.m3u8
@@ -2062,7 +2063,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
 隋唐英雄,http://zby.xjqxz.top/styx/live.m3u8
 
-斗鱼轮播,#genre#
+斗鱼,#genre#
 神乐剧场,http://jiaojirentv.top/2020/dy.php?id=85894
 神乐剧院,http://jiaojirentv.top/2020/dy.php?id=122402
 欧美大片,http://jiaojirentv.top/2020/dy.php?id=2793084
@@ -2096,7 +2097,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 女神电影,http://jiaojirentv.top/2020/dy.php?id=747764
 避风影院,http://jiaojirentv.top/2020/dy.php?id=9826611
 
-历年春晚,#genre#
+春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
