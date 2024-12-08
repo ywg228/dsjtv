@@ -515,8 +515,10 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
 民視,rtmp://f13h.mine.nu/sat/tv051
@@ -551,7 +553,6 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
@@ -568,7 +569,6 @@ TVBS新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 東森洋片台,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 東森洋片台,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=mfdfc048e6c2416337202&ct=17874&tsum=cad39b26202d525ea820bee1d69e545fAXN電影,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-東方衛視國際,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 金磚中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金磚英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
