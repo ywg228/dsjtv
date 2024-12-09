@@ -627,8 +627,8 @@ CHC动作电影,http://ssdsj.picp.net:4022/rtp/239.76.252.243:9000
 CHC动作电影,http://ssdsj.picp.net:4022/rtp/239.76.245.243:1234
 
 北京影视,http://grs.i234.me:8888/rtp/225.1.0.84:8000
-北京影视,http://grs.i234.me:8888/rtp/225.1.8.82:8000
 北京影视,http://openwrt.guidang.net:8888/rtp/225.1.0.84:8000
+北京影视,http://grs.i234.me:8888/rtp/225.1.8.82:8000
 北京影视,http://openwrt.guidang.net:8888/rtp/225.1.8.82:8000
 北京影视,http://221.219.97.2:4022/rtp/239.3.1.158:8000
 北京影视,http://1.203.76.24:7788/rtp/225.1.0.84:8000
@@ -664,14 +664,14 @@ CHC动作电影,http://ssdsj.picp.net:4022/rtp/239.76.245.243:1234
 北京IPTV淘电影,http://221.219.98.244:4022/rtp/239.2.1.250:8002
 北京IPTV淘电影,http://114.253.242.44:4022/rtp/239.2.1.250:8002
 湖南电影,http://ssdsj.picp.net:4022/rtp/239.76.253.106:9000
+湖南电影,http://eyfs.vicp.net:8888/rtp/239.76.253.106:9000
+湖南电影,http://demo1.ruisilink.top:9000/rtp/239.76.253.106:9000
 湖南电影,http://ssdsj.picp.net:4022/rtp/239.76.246.106:1234
 湖南电影,http://ssdsj.picp.net:4022/rtp/239.76.252.119:9000
 湖南电影,http://ssdsj.picp.net:4022/rtp/239.76.245.119:1234
-湖南电影,http://eyfs.vicp.net:8888/rtp/239.76.253.106:9000
 湖南电影,http://eyfs.vicp.net:8888/rtp/239.76.245.119:1234
 湖南电影,http://eyfs.vicp.net:8888/rtp/239.76.246.106:1234
 湖南电影,http://eyfs.vicp.net:8888/rtp/239.76.252.119:9000
-湖南电影,http://demo1.ruisilink.top:9000/rtp/239.76.253.106:9000
 湖南电影,http://demo1.ruisilink.top:9000/rtp/239.76.246.106:1234
 湖南电影,http://demo1.ruisilink.top:9000/rtp/239.76.252.119:9000
 湖南电影,http://demo1.ruisilink.top:9000/rtp/239.76.245.119:1234
