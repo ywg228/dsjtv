@@ -447,13 +447,13 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-無線新聞台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8$4K
-翡翠綜合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-翡翠劇集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-明珠劇集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+翡翠綜合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$北美
+翡翠劇集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$北美
+明珠劇集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$北美
 黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
@@ -478,7 +478,7 @@ HOY 78,http://110.235.24.100:8800/play/a004
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
-MOMOTV綜合台,rtmp://f13h.mine.nu/sat/tv761
+MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
 ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
@@ -520,7 +520,7 @@ TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-AXN電影,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+AXN台灣,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 金磚中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金磚英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
