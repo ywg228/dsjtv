@@ -573,6 +573,11 @@ Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 ViuTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 ViuTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+Astro AOD,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
+Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
+Astro QJ,http://aktv.top/AKTV/live/aktv3/astroqj/AKTV.m3u8
+TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
@@ -868,6 +873,7 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 剑阁综合,https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+阆中综合,https://p2hs.vzan.com/slowlive/798833473879633259/live.m3u8
 遂宁综合,https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
 遂宁文化生活,https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
 泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
