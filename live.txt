@@ -459,30 +459,30 @@ CCTV-17农业农村,http://[2409:8087:74d9:21::6]/270000001128/9900000513/index.
 澳門蓮花,http://php.jdshipin.com:8880/amlh.php
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
+娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
+美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映頻道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
+Now爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 Astro華麗台,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 Astro劇集台,http://cdn9.1689.us.kg/smt1.1.php?id=Aodhd
 Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
-娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-無線新聞台,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8$4K
-美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-天映頻道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
-Now爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 中視,rtmp://f13h.mine.nu/sat/tv091
