@@ -481,19 +481,29 @@ CCTV-17农业农村,http://[2409:8087:74d9:21::6]/270000001128/9900000513/index.
 亞洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
+澳門蓮花,http://php.jdshipin.com:8880/amlh.php
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8$4K
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
+千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 翡翠綜合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$北美
 翡翠劇集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$北美
 明珠劇集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$北美
@@ -516,10 +526,10 @@ myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中天亞洲台,https://litv.zapi.us.kg/?id=4gtv-4gtv109
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS,http://125.227.210.55:8188/VideoInput/play.ts
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
@@ -527,10 +537,6 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
-東森電影台,p2p://starvod.xyz:19806/6ea3540369244d86a78a408fab7734de
-東森電影台,p3p://108.181.32.169:18071/64253899000a078deabe99ff587050b0
-東森洋片台,p2p://starvod.xyz:19806/c96fcc121115445bbcb115f24d2a0a1a
-東森洋片台,p3p://108.181.32.169:18071/64251f8a0008854aea5cb6fe64e47b4e
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華日韓台,https://litv.zapi.us.kg/?id=litv-longturn11
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
@@ -1540,6 +1546,11 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 
 
 体育,#genre#
+CCTV-5体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000004000008885
+CCTV-5体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000001000026930
+CCTV-5+体育赛事,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031127
+CCTV-16奥林匹克,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000008000023253
+CCTV-16奥林匹克,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000008000023254$4K
 CCTV-5体育,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5体育,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 CCTV-5+体育赛事,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
