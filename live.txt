@@ -598,12 +598,12 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 影视,#genre#
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 CHC动作电影,http://dassby.qqff.top:99/live/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1/index.m3u8
 CHC家庭影院,http://dassby.qqff.top:99/live/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2/index.m3u8
 CHC影迷电影,http://dassby.qqff.top:99/live/CHC%E9%AB%98%E6%B8%85/index.m3u8
-CHC家庭影院,http://60.255.240.247:8090/live/jbtygqCHCjtyyH265_4000.m3u8
-CHC动作电影,http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8
-CHC影迷电影,http://60.255.240.247:8090/live/lnwsCHC-HDH265_4000.m3u8
 CHC家庭影院,http://xuys.top:8888/rtp/225.1.1.213:5002
 CHC影迷电影,http://xuys.top:8888/rtp/225.1.1.214:5002
 CHC动作电影,http://xuys.top:8888/rtp/225.1.1.215:5002
