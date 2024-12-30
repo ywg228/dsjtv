@@ -467,17 +467,17 @@ TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 寰宇新聞台,https://www.567858.xyz/ofiii.php?id=litv-longturn14
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv152
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華日韓台,https://www.567858.xyz/ofiii.php?id=litv-longturn11
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,https://www.567858.xyz/ofiii.php?id=litv-longturn21
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,https://www.567858.xyz/ofiii.php?id=litv-longturn03
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv061
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
@@ -1458,4 +1458,4 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 
 ❤️,#genre#
-支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
+维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
