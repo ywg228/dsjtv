@@ -1,3 +1,19 @@
+跨年,#genre#
+北京卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000516
+东方卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000518
+湖南卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000523
+江苏卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000524
+浙江卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000531
+北京卫视,https://www.mytvsuper.com.mp/tengxun-beijing.m3u8
+江苏卫视,https://www.mytvsuper.com.mp/tengxun-jiangsu.m3u8
+浙江卫视,https://www.mytvsuper.com.mp/tengxun-zhejiang.m3u8
+东方卫视,https://www.mytvsuper.com.mp/tengxun-dongfang.m3u8
+哔哩哔哩,https://caoshiyizhongzhiwu.vip-tptv.xyz/bilibili/1231?platform=hls&line=first&quality=4
+哔哩哔哩,https://caoshiyizhongzhiwu.vip-tptv.xyz/bilibili/1231?platform=flv&line=first&quality=4
+抖音,https://caoshiyizhongzhiwu.vip-tptv.xyz/douyin/97085749?stream=hls
+抖音,https://caoshiyizhongzhiwu.vip-tptv.xyz/douyin/97085749?stream=flv
+芒果TV,https://www.mytvsuper.com.mp/mgtv.m3u8
+
 央视,#genre#
 CCTV-1综合,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000501
 CCTV-2财经,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000502
@@ -1445,3 +1461,6 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+
+❤️,#genre#
+维护不易，支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
