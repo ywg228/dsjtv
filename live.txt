@@ -1462,5 +1462,5 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 
-❤️,#genre#
+🆕,#genre#
 维护不易，支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
