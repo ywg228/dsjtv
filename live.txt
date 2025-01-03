@@ -554,6 +554,9 @@ CHC影迷电影,http://home.js001.com:7777/stream/channelid/138818596?profile=pa
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
+CHC影迷电影,http://175.152.138.112:6066/udp/239.93.42.5:5140
+CHC家庭影院,http://175.152.138.112:6066/udp/239.93.42.6:5140
+CHC动作电影,http://175.152.138.112:6066/udp/239.93.42.7:5140
 
 北京影视,http://1.203.76.168:7788/udp/225.1.0.84:8000
 北京影视,http://123.113.237.172:8012/udp/239.3.1.158:8000
@@ -605,7 +608,6 @@ SiTV法治天地,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=90015470847
 SiTV金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 SiTV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 SiTV游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
-SiTV七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
 SiTV生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
 iHOT爱院线,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000030630
 iHOT爱谍战,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000070630
@@ -768,8 +770,6 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 东方卫视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032246
 上海新闻综合,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
 上海都市,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000018926
-上海外语,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000030951
-纪实人文,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000001000021713
 东方影视,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000032212
 五星体育,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000017540
 第一财经,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000010000027146
@@ -794,14 +794,10 @@ SiTV生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=85386163727
 SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000029972
 
 东方卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 东方卫视,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226155/index.m3u8
 上海新闻综合,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226620/index.m3u8
 上海都市,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226753/index.m3u8
-上海外语,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226201/index.m3u8
-纪实人文,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226174/index.m3u8
 第一财经,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226172/index.m3u8
 哈哈炫动,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8
 SiTV欢笑剧场,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/3221226203/index.m3u8$4K
@@ -864,6 +860,22 @@ SiTV东方财经,http://[2409:8087:74d2:21::6]/000000001000PLTV/88888888/224/322
 成都影视文艺,http://yulang132.cn:4022/udp/239.93.0.19:1250
 成都公共,http://yulang132.cn:4022/udp/239.93.1.231:5140
 成都少儿,http://yulang132.cn:4022/udp/239.93.0.21:1251
+
+四川经济,http://175.152.138.112:6066/rtp/239.93.1.101:5140
+四川文化旅游,http://175.152.138.112:6066/rtp/239.93.1.102:5140
+四川新闻,http://175.152.138.112:6066/rtp/239.93.0.47:5140
+四川影视文艺,http://175.152.138.112:6066/rtp/239.93.0.166:5140
+四川妇女儿童,http://175.152.138.112:6066/rtp/239.93.0.219:5140
+四川科教,http://175.152.138.112:6066/rtp/239.93.42.44:5140
+四川乡村,http://175.152.138.112:6066/rtp/239.93.0.52:5140
+四川峨眉电影,http://175.152.138.112:6066/rtp/239.93.0.252:5140
+成都新闻综合,http://175.152.138.112:6066/rtp/239.93.0.16:5140
+成都经济资讯,http://175.152.138.112:6066/rtp/239.93.0.17:1239
+成都都市生活,http://175.152.138.112:6066/rtp/239.93.0.18:1238
+成都影视文艺,http://175.152.138.112:6066/rtp/239.93.0.19:1250
+成都公共,http://175.152.138.112:6066/rtp/239.93.1.231:5140
+成都少儿,http://175.152.138.112:6066/rtp/239.93.0.21:1251
+成都蓉城先锋,http://175.152.138.112:6066/udp/239.93.0.91:2101
 
 四川卫视,http://61.157.139.15:9901/tsfile/live/2393_1.m3u8?key=txiptv&playlive=1&authid=0
 四川经济,http://61.157.139.15:9901/tsfile/live/2416_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1453,3 +1465,6 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+
+❤️,#genre#
+维护不易，支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
