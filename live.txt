@@ -231,16 +231,7 @@ CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LST
 黑龙江卫视,http://223.105.252.45/PLTV/3/224/3221227638/index.m3u8
 
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-c5713f73d666/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=2dee6a651676210262
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
 
@@ -1356,7 +1347,6 @@ SiTV东方财经,http://[2409:8087:74d3:21::4]/000000001000PLTV/88888888/224/322
 梁平综合,https://yypull.cbg.cn/applive/lplive01/chunklist.m3u8
 酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 
-
 体育,#genre#
 CCTV-5体育,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000265005
 CCTV-5+体育赛事,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000001000020505
@@ -1376,7 +1366,6 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
-
 
 轮播,#genre#
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
@@ -1438,8 +1427,10 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 隋唐英雄,http://zby.xjqxz.top/styx/live.m3u8
 
 斗鱼,#genre#
+成龙,http://jiaojirentv.top/2020/dy.php?id=3379942
+周星驰,http://jiaojirentv.top/2020/dy.php?id=122402
+林正英,http://jiaojirentv.top/2020/dy.php?id=7356023
 神乐剧场,http://jiaojirentv.top/2020/dy.php?id=85894
-神乐剧院,http://jiaojirentv.top/2020/dy.php?id=122402
 欧美大片,http://jiaojirentv.top/2020/dy.php?id=2793084
 贝爷max,http://jiaojirentv.top/2020/dy.php?id=4332
 贝爷影厅1,http://jiaojirentv.top/2020/dy.php?id=252802
@@ -1450,7 +1441,7 @@ MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3
 吃米滴虫,http://jiaojirentv.top/2020/dy.php?id=315457
 吃奶滴虫,http://jiaojirentv.top/2020/dy.php?id=263824
 冰冰经典,http://jiaojirentv.top/2020/dy.php?id=74374
-星爷影院,http://jiaojirentv.top/2020/dy.php?id=508118
+欧美影院,http://jiaojirentv.top/2020/dy.php?id=508118
 华仔影院,http://jiaojirentv.top/2020/dy.php?id=2516864
 凌儿影院,http://jiaojirentv.top/2020/dy.php?id=1377142
 麓山迷踪,http://jiaojirentv.top/2020/dy.php?id=4505431
