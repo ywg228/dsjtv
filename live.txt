@@ -44,6 +44,19 @@ CGTN法语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=10000000060002
 CGTN西班牙语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280002
 CGTN阿拉伯语,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000280001
 
+CCTV-1综合,http://106.53.99.30/dl/bjyd.php?id=1
+CCTV-2财经,http://106.53.99.30/dl/bjyd.php?id=2
+CCTV-4中文国际,http://106.53.99.30/dl/bjyd.php?id=3
+CCTV-7国防军事,http://106.53.99.30/dl/bjyd.php?id=4
+CCTV-9纪录,http://106.53.99.30/dl/bjyd.php?id=5
+CCTV-10科教,http://106.53.99.30/dl/bjyd.php?id=6
+CCTV-11戏曲,http://106.53.99.30/dl/bjyd.php?id=7
+CCTV-12社会与法,http://106.53.99.30/dl/bjyd.php?id=8
+CCTV-13新闻,http://106.53.99.30/dl/bjyd.php?id=9
+CCTV-14少儿,http://106.53.99.30/dl/bjyd.php?id=10
+CCTV-15音乐,http://106.53.99.30/dl/bjyd.php?id=11
+CCTV-17农业农村,http://106.53.99.30/dl/bjyd.php?id=12
+
 CCTV-1综合,http://itms4.sdlk.vip:6721/hls/200/index.m3u8
 CCTV-2财经,http://itms4.sdlk.vip:6721/hls/217/index.m3u8
 CCTV-4中文国际,http://itms4.sdlk.vip:6721/hls/216/index.m3u8
@@ -1444,4 +1457,4 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 
 ❤️,#genre#
-维护不易，支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
+维护不易，支持一下🙏👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
