@@ -29,6 +29,7 @@ CCTV-15音乐,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=10000000020
 CCTV-16奥林匹克,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000233002
 CCTV-17农业农村,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-17农业农村,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000056836
+CCTV-4K超高清,http://a21709.tv.netsite.cc/proxy/1810627534/1810627534.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -57,19 +58,22 @@ CCTV-14少儿,http://106.53.99.30/dl/bjyd.php?id=10
 CCTV-15音乐,http://106.53.99.30/dl/bjyd.php?id=11
 CCTV-17农业农村,http://106.53.99.30/dl/bjyd.php?id=12
 
-CCTV-1综合,http://itms4.sdlk.vip:6721/hls/200/index.m3u8
-CCTV-2财经,http://itms4.sdlk.vip:6721/hls/217/index.m3u8
-CCTV-4中文国际,http://itms4.sdlk.vip:6721/hls/216/index.m3u8
-CCTV-5体育,http://itms4.sdlk.vip:6721/hls/202/index.m3u8
-CCTV-6电影,http://itms4.sdlk.vip:6721/hls/203/index.m3u8
-CCTV-7国防军事,http://itms4.sdlk.vip:6721/hls/215/index.m3u8
-CCTV-8电视剧,http://itms4.sdlk.vip:6721/hls/204/index.m3u8
-CCTV-10科教,http://itms4.sdlk.vip:6721/hls/213/index.m3u8
-CCTV-11戏曲,http://itms4.sdlk.vip:6721/hls/205/index.m3u8
-CCTV-12社会与法,http://itms4.sdlk.vip:6721/hls/212/index.m3u8
-CCTV-13新闻,http://itms4.sdlk.vip:6721/hls/206/index.m3u8
-CCTV-14少儿,http://itms4.sdlk.vip:6721/hls/211/index.m3u8
-CCTV-15音乐,http://itms4.sdlk.vip:6721/hls/207/index.m3u8
+CCTV-1综合,http://a21709.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
+CCTV-2财经,http://a21709.tv.netsite.cc/proxy/1865857764/1865857764.m3u8
+CCTV-4中文国际,http://a21709.tv.netsite.cc/proxy/1431251767/1431251767.m3u8
+CCTV-5体育,http://a21709.tv.netsite.cc/proxy/2118762958/2118762958.m3u8
+CCTV-5+体育赛事,http://a21709.tv.netsite.cc/proxy/485668034/485668034.m3u8
+CCTV-6电影,http://a21709.tv.netsite.cc/proxy/584456678/584456678.m3u8
+CCTV-7国防军事,http://a21709.tv.netsite.cc/proxy/1163485033/1163485033.m3u8
+CCTV-9纪录,http://a21709.tv.netsite.cc/proxy/675916385/675916385.m3u8
+CCTV-10科教,http://a21709.tv.netsite.cc/proxy/2131132936/2131132936.m3u8
+CCTV-11戏曲,http://a21709.tv.netsite.cc/proxy/421024024/421024024.m3u8
+CCTV-12社会与法,http://a21709.tv.netsite.cc/proxy/1321786312/1321786312.m3u8
+CCTV-13新闻,http://a21709.tv.netsite.cc/proxy/1942371728/1942371728.m3u8
+CCTV-14少儿,http://a21709.tv.netsite.cc/proxy/512439688/512439688.m3u8
+CCTV-15音乐,http://a21709.tv.netsite.cc/proxy/323678478/323678478.m3u8
+CCTV-16奥林匹克,http://a21709.tv.netsite.cc/proxy/2055404079/2055404079.m3u8
+CCTV-17农业农村,http://a21709.tv.netsite.cc/proxy/199561397/199561397.m3u8
 
 CCTV-1综合,http://223.105.252.3/PLTV/3/224/3221227634/index.m3u8
 CCTV-2财经,http://223.105.252.41/PLTV/3/224/3221228300/index.m3u8
@@ -142,35 +146,46 @@ CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LST
 康巴卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000266002
 安多卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000266001
 
-山东卫视,http://itms4.sdlk.vip:6721/hls/208/index.m3u8
-北京卫视,http://itms4.sdlk.vip:6721/hls/218/index.m3u8
-东方卫视,http://itms4.sdlk.vip:6721/hls/219/index.m3u8
-东南卫视,http://itms4.sdlk.vip:6721/hls/220/index.m3u8
-甘肃卫视,http://itms4.sdlk.vip:6721/hls/221/index.m3u8
-广东卫视,http://itms4.sdlk.vip:6721/hls/222/index.m3u8
-广西卫视,http://itms4.sdlk.vip:6721/hls/223/index.m3u8
-贵州卫视,http://itms4.sdlk.vip:6721/hls/224/index.m3u8
-海南卫视,http://itms4.sdlk.vip:6721/hls/225/index.m3u8
-河南卫视,http://itms4.sdlk.vip:6721/hls/226/index.m3u8
-黑龙江卫视,http://itms4.sdlk.vip:6721/hls/227/index.m3u8
-吉林卫视,http://itms4.sdlk.vip:6721/hls/228/index.m3u8
-江苏卫视,http://itms4.sdlk.vip:6721/hls/229/index.m3u8
-江西卫视,http://itms4.sdlk.vip:6721/hls/230/index.m3u8
-内蒙古卫视,http://itms4.sdlk.vip:6721/hls/232/index.m3u8
-宁夏卫视,http://itms4.sdlk.vip:6721/hls/233/index.m3u8
-青海卫视,http://itms4.sdlk.vip:6721/hls/234/index.m3u8
-天津卫视,http://itms4.sdlk.vip:6721/hls/236/index.m3u8
-湖北卫视,http://itms4.sdlk.vip:6721/hls/237/index.m3u8
-辽宁卫视,http://itms4.sdlk.vip:6721/hls/238/index.m3u8
-山西卫视,http://itms4.sdlk.vip:6721/hls/240/index.m3u8
-陕西卫视,http://itms4.sdlk.vip:6721/hls/241/index.m3u8
-四川卫视,http://itms4.sdlk.vip:6721/hls/243/index.m3u8
-西藏卫视,http://itms4.sdlk.vip:6721/hls/244/index.m3u8
-云南卫视,http://itms4.sdlk.vip:6721/hls/247/index.m3u8
-浙江卫视,http://itms4.sdlk.vip:6721/hls/248/index.m3u8
-重庆卫视,http://itms4.sdlk.vip:6721/hls/249/index.m3u8
-湖南卫视,http://itms4.sdlk.vip:6721/hls/252/index.m3u8
-河北卫视,http://itms4.sdlk.vip:6721/hls/254/index.m3u8
+北京卫视,http://a21709.tv.netsite.cc/proxy/1773564112/1773564112.m3u8
+江苏卫视,http://a21709.tv.netsite.cc/proxy/256947203/256947203.m3u8
+东方卫视,http://a21709.tv.netsite.cc/proxy/694881013/694881013.m3u8
+浙江卫视,http://a21709.tv.netsite.cc/proxy/257951448/257951448.m3u8
+湖南卫视,http://a21709.tv.netsite.cc/proxy/480409838/480409838.m3u8
+湖北卫视,http://a21709.tv.netsite.cc/proxy/209398845/209398845.m3u8
+广东卫视,http://a21709.tv.netsite.cc/proxy/573869971/573869971.m3u8
+广西卫视,http://a21709.tv.netsite.cc/proxy/102904669/102904669.m3u8
+黑龙江卫视,http://a21709.tv.netsite.cc/proxy/982668357/982668357.m3u8
+海南卫视,http://a21709.tv.netsite.cc/proxy/200969914/200969914.m3u8
+重庆卫视,http://a21709.tv.netsite.cc/proxy/562106987/562106987.m3u8
+深圳卫视,http://a21709.tv.netsite.cc/proxy/457534194/457534194.m3u8
+四川卫视,http://a21709.tv.netsite.cc/proxy/59757691/59757691.m3u8
+河南卫视,http://a21709.tv.netsite.cc/proxy/251465659/251465659.m3u8
+东南卫视,http://a21709.tv.netsite.cc/proxy/698479958/698479958.m3u8
+贵州卫视,http://a21709.tv.netsite.cc/proxy/189740973/189740973.m3u8
+江西卫视,http://a21709.tv.netsite.cc/proxy/203181175/203181175.m3u8
+辽宁卫视,http://a21709.tv.netsite.cc/proxy/463441117/463441117.m3u8
+安徽卫视,http://a21709.tv.netsite.cc/proxy/149472807/149472807.m3u8
+河北卫视,http://a21709.tv.netsite.cc/proxy/1385861493/1385861493.m3u8
+山东卫视,http://a21709.tv.netsite.cc/proxy/95712545/95712545.m3u8
+天津卫视,http://a21709.tv.netsite.cc/proxy/240376980/240376980.m3u8
+吉林卫视,http://a21709.tv.netsite.cc/proxy/649197264/649197264.m3u8
+陕西卫视,http://a21709.tv.netsite.cc/proxy/1158533991/1158533991.m3u8
+甘肃卫视,http://a21709.tv.netsite.cc/proxy/910220240/910220240.m3u8
+宁夏卫视,http://a21709.tv.netsite.cc/proxy/842139022/842139022.m3u8
+内蒙古卫视,http://a21709.tv.netsite.cc/proxy/1838037272/1838037272.m3u8
+云南卫视,http://a21709.tv.netsite.cc/proxy/599737477/599737477.m3u8
+山西卫视,http://a21709.tv.netsite.cc/proxy/723496018/723496018.m3u8
+青海卫视,http://a21709.tv.netsite.cc/proxy/1164716104/1164716104.m3u8
+西藏卫视,http://a21709.tv.netsite.cc/proxy/1062504144/1062504144.m3u8
+新疆卫视,http://a21709.tv.netsite.cc/proxy/86832656/86832656.m3u8
+兵团卫视,http://a21709.tv.netsite.cc/proxy/1502802665/1502802665.m3u8
+黑龙江卫视,http://a21709.tv.netsite.cc/proxy/1993445467/1993445467.m3u8
+内蒙古卫视,http://a21709.tv.netsite.cc/proxy/1149350272/1149350272.m3u8
+甘肃卫视,http://a21709.tv.netsite.cc/proxy/1209404373/1209404373.m3u8
+海南卫视,http://a21709.tv.netsite.cc/proxy/2019508840/2019508840.m3u8
+陕西卫视,http://a21709.tv.netsite.cc/proxy/917851306/917851306.m3u8
+三沙卫视,http://a21709.tv.netsite.cc/proxy/1337100319/1337100319.m3u8
+青海卫视,http://a21709.tv.netsite.cc/proxy/1152127449/1152127449.m3u8
 
 北京卫视,http://223.105.252.47/PLTV/3/224/3221227652/index.m3u8
 东方卫视,http://223.105.252.39/PLTV/3/224/3221227208/index.m3u8
@@ -548,7 +563,7 @@ Love Nature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-维护不易，支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
+维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 
 影视,#genre#
