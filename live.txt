@@ -463,36 +463,28 @@ CGTN,http://[2409:8087:5e00:24::20]:6610/200000001898/460000089800010095/1.m3u8?
 環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 澳門蓮花,http://php.jdshipin.com:8880/amlh.php
+澳視澳門,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$4K
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8$4K
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-無線新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
+無綫新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+無綫新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+無綫新聞台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$北美
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w103.m3u8
 娛樂新聞台,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-翡翠綜合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$北美
-翡翠劇集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$北美
-明珠劇集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$北美
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
@@ -511,10 +503,8 @@ myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 TVBS,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv073
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv072
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新聞台,http://125.227.210.55:8186/VideoInput/play.ts
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv010
@@ -523,7 +513,9 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 東森新聞台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv152
 東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
+東森電影台,https://iptv.vip-tptv.xyz/tv.php?id=4
 東森電影台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie&sp=chaojidianshi
+東森洋片台,https://iptv.vip-tptv.xyz/tv.php?id=5
 東森洋片台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern&sp=chaojidianshi
 龍華日韓台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-longturn11
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
@@ -544,12 +536,14 @@ AMC電影台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=4gtv-4gtv017
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
+AXN台灣,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi
 AXN台灣,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun動漫台,https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.php?id=litv-ftv15
+i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
 ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
-i-Fun動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
@@ -567,25 +561,6 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-
-Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-ViuTV 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-ViuTV6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 
@@ -853,33 +828,6 @@ SiTV东方财经,http://[2409:8087:74d3:21::4]/000000001000PLTV/88888888/224/322
 四川卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000016825
 四川卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-
-四川经济,http://sg5.jdiptv.cc/live/sctv2.m3u8?kdstime=1735554382&kdssign=995cba6bb4e55176ebecfbb342692d1e
-四川文化旅游,http://sg4.jdiptv.cc/live/sctv3.m3u8?kdstime=1735554471&kdssign=db080c6791dca9da4f3a100e4d11149c
-四川新闻,http://sg4.jdiptv.cc/live/sctv4.m3u8?kdstime=1735554529&kdssign=58b8a6b54b2d29b798527f889f75b485
-四川影视文艺,http://sg5.jdiptv.cc/live/sctv5.m3u8?kdstime=1735554604&kdssign=a53788a1d4b092a385e2950be5ad90d3
-四川妇女儿童,http://kr1.jdiptv.cc/live/sctv7.m3u8?kdstime=1735554637&kdssign=e5b479692cab324d62de5162a2938179
-四川乡村,http://kr1.jdiptv.cc/live/sctv9.m3u8?kdstime=1735554797&kdssign=4b48d7f3add0003eafa49a24beb49aae
-四川乡村,http://scxclivepull.sctvcloud.com/live/c0b8c1c3018e1000e51198d100000000/playlist.m3u8?wsSecret=9d85a837c4a19314a370d7600c4be4df&wsTime=1735554939
-康巴卫视,https://pluslive.kangbatv.com/1/sd/live.m3u8?auth_key=1735561934-0-0-203b4c4515e67aab6acdcab7a2a69bd9
-四川卫视,http://hhska.3322.org:8096/udp/239.93.0.169:5140
-四川卫视,http://hhska.3322.org:8096/udp/239.93.0.20:1235
-四川经济,http://hhska.3322.org:8096/udp/239.93.1.101:5140
-四川文化旅游,http://hhska.3322.org:8096/udp/239.93.1.102:5140
-四川新闻,http://hhska.3322.org:8096/udp/239.93.0.47:5140
-四川影视文艺,http://hhska.3322.org:8096/udp/239.93.0.166:5140
-四川科教,http://hhska.3322.org:8096/udp/239.93.42.44:5140
-四川乡村,http://hhska.3322.org:8096/udp/239.93.0.52:5140
-四川妇女儿童,http://hhska.3322.org:8096/udp/239.93.0.219:5140
-四川峨眉电影,http://hhska.3322.org:8096/udp/239.93.0.252:5140
-康巴卫视,http://hhska.3322.org:8096/udp/239.93.0.41:5140
-成都新闻综合,http://hhska.3322.org:8096/udp/239.93.0.16:5140
-成都经济资讯,http://hhska.3322.org:8096/udp/239.93.0.17:1239
-成都都市生活,http://hhska.3322.org:8096/udp/239.93.0.18:1238
-成都影视文艺,http://hhska.3322.org:8096/udp/239.93.0.19:1250
-成都公共,http://hhska.3322.org:8096/udp/239.93.1.231:5140
-成都少儿,http://hhska.3322.org:8096/udp/239.93.0.21:1251
-成都蓉城先锋,http://hhska.3322.org:8096/udp/239.93.0.91:2101
 四川卫视,http://yulang132.cn:4022/udp/239.93.0.20:1235
 四川卫视,http://yulang132.cn:4022/udp/239.93.0.169:5140
 四川经济,http://yulang132.cn:4022/udp/239.93.1.101:5140
@@ -898,21 +846,24 @@ SiTV东方财经,http://[2409:8087:74d3:21::4]/000000001000PLTV/88888888/224/322
 成都公共,http://yulang132.cn:4022/udp/239.93.1.231:5140
 成都少儿,http://yulang132.cn:4022/udp/239.93.0.21:1251
 
-四川经济,http://175.152.138.112:6066/rtp/239.93.1.101:5140
-四川文化旅游,http://175.152.138.112:6066/rtp/239.93.1.102:5140
-四川新闻,http://175.152.138.112:6066/rtp/239.93.0.47:5140
-四川影视文艺,http://175.152.138.112:6066/rtp/239.93.0.166:5140
-四川妇女儿童,http://175.152.138.112:6066/rtp/239.93.0.219:5140
-四川科教,http://175.152.138.112:6066/rtp/239.93.42.44:5140
-四川乡村,http://175.152.138.112:6066/rtp/239.93.0.52:5140
-四川峨眉电影,http://175.152.138.112:6066/rtp/239.93.0.252:5140
-成都新闻综合,http://175.152.138.112:6066/rtp/239.93.0.16:5140
-成都经济资讯,http://175.152.138.112:6066/rtp/239.93.0.17:1239
-成都都市生活,http://175.152.138.112:6066/rtp/239.93.0.18:1238
-成都影视文艺,http://175.152.138.112:6066/rtp/239.93.0.19:1250
-成都公共,http://175.152.138.112:6066/rtp/239.93.1.231:5140
-成都少儿,http://175.152.138.112:6066/rtp/239.93.0.21:1251
-成都蓉城先锋,http://175.152.138.112:6066/udp/239.93.0.91:2101
+四川卫视,http://hhska.3322.org:8096/udp/239.93.0.169:5140
+四川卫视,http://hhska.3322.org:8096/udp/239.93.0.20:1235
+四川经济,http://hhska.3322.org:8096/udp/239.93.1.101:5140
+四川文化旅游,http://hhska.3322.org:8096/udp/239.93.1.102:5140
+四川新闻,http://hhska.3322.org:8096/udp/239.93.0.47:5140
+四川影视文艺,http://hhska.3322.org:8096/udp/239.93.0.166:5140
+四川科教,http://hhska.3322.org:8096/udp/239.93.42.44:5140
+四川乡村,http://hhska.3322.org:8096/udp/239.93.0.52:5140
+四川妇女儿童,http://hhska.3322.org:8096/udp/239.93.0.219:5140
+四川峨眉电影,http://hhska.3322.org:8096/udp/239.93.0.252:5140
+康巴卫视,http://hhska.3322.org:8096/udp/239.93.0.41:5140
+成都新闻综合,http://hhska.3322.org:8096/udp/239.93.0.16:5140
+成都经济资讯,http://hhska.3322.org:8096/udp/239.93.0.17:1239
+成都都市生活,http://hhska.3322.org:8096/udp/239.93.0.18:1238
+成都影视文艺,http://hhska.3322.org:8096/udp/239.93.0.19:1250
+成都公共,http://hhska.3322.org:8096/udp/239.93.1.231:5140
+成都少儿,http://hhska.3322.org:8096/udp/239.93.0.21:1251
+成都蓉城先锋,http://hhska.3322.org:8096/udp/239.93.0.91:2101
 
 四川卫视,http://61.157.139.15:9901/tsfile/live/2393_1.m3u8?key=txiptv&playlive=1&authid=0
 四川经济,http://61.157.139.15:9901/tsfile/live/2416_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1492,3 +1443,6 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+
+❤️,#genre#
+维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
