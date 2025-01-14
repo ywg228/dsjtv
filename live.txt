@@ -57,6 +57,25 @@ CCTV-14少儿,http://106.53.99.30/dl/bjyd.php?id=10
 CCTV-15音乐,http://106.53.99.30/dl/bjyd.php?id=11
 CCTV-17农业农村,http://106.53.99.30/dl/bjyd.php?id=12
 
+CCTV-1综合,http://b.xubo.myds.me:9999/rtp/239.93.0.58:5140
+CCTV-2财经,http://b.xubo.myds.me:9999/rtp/239.93.1.23:6000
+CCTV-3综艺,http://b.xubo.myds.me:9999/rtp/239.93.0.109:5140
+CCTV-4中文国际,http://b.xubo.myds.me:9999/rtp/239.93.1.105:5140
+CCTV-5体育,http://b.xubo.myds.me:9999/rtp/239.93.42.37:5140
+CCTV-5+体育赛事,http://b.xubo.myds.me:9999/rtp/239.93.1.36:8004
+CCTV-6电影,http://b.xubo.myds.me:9999/rtp/239.93.42.38:5140
+CCTV-7国防军事,http://b.xubo.myds.me:9999/rtp/239.93.1.67:5140
+CCTV-8电视剧,http://b.xubo.myds.me:9999/rtp/239.93.42.39:5140
+CCTV-9纪录,http://b.xubo.myds.me:9999/rtp/239.93.1.24:5140
+CCTV-10科教,http://b.xubo.myds.me:9999/rtp/239.93.1.28:5140
+CCTV-11戏曲,http://b.xubo.myds.me:9999/rtp/239.93.0.102:5140
+CCTV-12社会与法,http://b.xubo.myds.me:9999/rtp/239.93.1.30:8124
+CCTV-13新闻,http://b.xubo.myds.me:9999/rtp/239.93.0.66:5140
+CCTV-14少儿,http://b.xubo.myds.me:9999/rtp/239.93.1.29:6000
+CCTV-15音乐,http://b.xubo.myds.me:9999/rtp/239.93.0.103:5140
+CCTV-16奥林匹克,http://b.xubo.myds.me:9999/rtp/239.93.42.54:5140
+CCTV-17农业农村,http://b.xubo.myds.me:9999/rtp/239.93.0.92:5140
+
 CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -143,6 +162,43 @@ CGTN俄语,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LST
 辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697&amp
 四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933&amp
 云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=17488930753778751907&amp
+
+北京卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.180:5140
+东方卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.123:5140
+浙江卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.124:5140
+江苏卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.89:5140
+湖南卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.88:5140
+广东卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.181:5140
+深圳卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.182:5140
+广西卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.46:5140
+四川卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.20:1235
+天津卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.167:5140
+辽宁卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.108:5140
+安徽卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.106:5140
+黑龙江卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.183:5140
+湖北卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.250:5140
+吉林卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.248:5140
+山东卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.168:5140
+江西卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.134:5140
+河南卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.45:5140
+河北卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.132:5140
+甘肃卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.81:5140
+重庆卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.107:5140
+东南卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.42:5140
+云南卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.174:5140
+贵州卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.131:5140
+海南卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.80:5140
+陕西卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.143:5140
+山西卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.6:5140
+内蒙古卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.8:5140
+青海卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.192:5140
+宁夏卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.247:5140
+西藏卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.175:5140
+新疆卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.194:5140
+兵团卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.43:5140
+厦门卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.57:5140
+三沙卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.58:5140
+延边卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.249:5140
 
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
@@ -370,10 +426,13 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
 影视,#genre#
+CHC影迷电影,http://b.xubo.myds.me:9999/udp/239.93.42.5:5140
+CHC家庭影院,http://b.xubo.myds.me:9999/udp/239.93.42.6:5140
+CHC动作电影,http://b.xubo.myds.me:9999/udp/239.93.42.7:5140
+CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
 CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
 
 北京影视,http://1.203.76.168:7788/udp/225.1.0.84:8000
 北京影视,http://123.113.237.172:8012/udp/239.3.1.158:8000
@@ -591,6 +650,22 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 四川卫视,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000016825
 四川卫视,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+四川卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.20:1235
+四川经济,http://b.xubo.myds.me:9999/rtp/239.93.1.101:5140
+四川文化旅游,http://b.xubo.myds.me:9999/rtp/239.93.1.102:5140
+四川新闻,http://b.xubo.myds.me:9999/rtp/239.93.0.47:5140
+四川影视文艺,http://b.xubo.myds.me:9999/rtp/239.93.0.166:5140
+四川妇女儿童,http://b.xubo.myds.me:9999/rtp/239.93.0.219:5140
+四川科教,http://b.xubo.myds.me:9999/rtp/239.93.42.44:5140
+四川乡村,http://b.xubo.myds.me:9999/rtp/239.93.0.52:5140
+峨眉电影,http://b.xubo.myds.me:9999/rtp/239.93.0.252:5140
+成都新闻综合,http://b.xubo.myds.me:9999/rtp/239.93.0.16:5140
+成都经济资讯,http://b.xubo.myds.me:9999/rtp/239.93.0.17:1239
+成都都市生活,http://b.xubo.myds.me:9999/rtp/239.93.0.18:1238
+成都影视文艺,http://b.xubo.myds.me:9999/rtp/239.93.0.19:1250
+成都公共,http://b.xubo.myds.me:9999/rtp/239.93.1.231:5140
+成都少儿,http://b.xubo.myds.me:9999/rtp/239.93.0.21:1251
+
 四川卫视,http://yulang132.cn:4022/udp/239.93.0.20:1235
 四川卫视,http://yulang132.cn:4022/udp/239.93.0.169:5140
 四川经济,http://yulang132.cn:4022/udp/239.93.1.101:5140
@@ -600,7 +675,7 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 四川妇女儿童,http://yulang132.cn:4022/udp/239.93.0.219:5140
 四川科教,http://yulang132.cn:4022/udp/239.93.42.44:5140
 四川乡村,http://yulang132.cn:4022/udp/239.93.0.52:5140
-四川峨眉电影,http://yulang132.cn:4022/udp/239.93.0.252:5140
+峨眉电影,http://yulang132.cn:4022/udp/239.93.0.252:5140
 康巴卫视,http://yulang132.cn:4022/udp/239.93.0.41:5140
 成都新闻综合,http://yulang132.cn:4022/udp/239.93.0.16:5140
 成都经济资讯,http://yulang132.cn:4022/udp/239.93.0.17:1239
@@ -618,7 +693,7 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 四川科教,http://hhska.3322.org:8096/udp/239.93.42.44:5140
 四川乡村,http://hhska.3322.org:8096/udp/239.93.0.52:5140
 四川妇女儿童,http://hhska.3322.org:8096/udp/239.93.0.219:5140
-四川峨眉电影,http://hhska.3322.org:8096/udp/239.93.0.252:5140
+峨眉电影,http://hhska.3322.org:8096/udp/239.93.0.252:5140
 康巴卫视,http://hhska.3322.org:8096/udp/239.93.0.41:5140
 成都新闻综合,http://hhska.3322.org:8096/udp/239.93.0.16:5140
 成都经济资讯,http://hhska.3322.org:8096/udp/239.93.0.17:1239
@@ -635,7 +710,7 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 四川影视文艺,http://61.157.139.15:9901/tsfile/live/2412_1.m3u8?key=txiptv&playlive=1&authid=0
 四川妇女儿童,http://61.157.139.15:9901/tsfile/live/2414_1.m3u8?key=txiptv&playlive=1&authid=0
 康巴卫视,http://61.157.139.15:9901/tsfile/live/2415_1.m3u8?key=txiptv&playlive=1&authid=0
-四川峨眉电影,http://61.157.139.15:9901/tsfile/live/2396_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://61.157.139.15:9901/tsfile/live/2396_1.m3u8?key=txiptv&playlive=1&authid=0
 
 四川卫视,http://118.122.189.74:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川经济,http://118.122.189.74:9901/tsfile/live/0123_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -645,7 +720,7 @@ SiTV劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=50000000020
 四川卫视,http://218.89.240.144:59901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川新闻,http://218.89.240.144:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 四川文化旅游,http://218.89.240.144:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-四川峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+峨眉电影,http://218.89.240.144:59901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 康巴卫视,http://218.89.240.144:59901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 成都经济,http://218.89.240.144:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 成都少儿,http://218.89.240.144:59901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
