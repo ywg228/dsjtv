@@ -346,7 +346,6 @@ CCTV-17农业农村,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CGTN,http://39.134.67.108/PLTV/88888888/224/3221225510/1.m3u8
 CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 
-
 国际,#genre#
 鳳凰資訊,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
@@ -430,6 +429,9 @@ AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息2台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 AXN台灣,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 AXN台灣,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
@@ -1028,7 +1030,6 @@ iHOT爱体育,http://112.18.54.52:35455/itv/2000000004000000060.m3u8?&cdn=hnbbli
 鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 
-
 黑龙江,#genre#
 黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
@@ -1064,6 +1065,7 @@ iHOT爱体育,http://112.18.54.52:35455/itv/2000000004000000060.m3u8?&cdn=hnbbli
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8 
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+
 
 重庆,#genre#
 重庆卫视,http://112.18.54.52:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
