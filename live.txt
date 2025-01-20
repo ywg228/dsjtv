@@ -143,6 +143,7 @@ CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
+黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
 内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
 宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
 山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624
@@ -155,6 +156,7 @@ CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516
 兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
+安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 
 北京卫视,http://117.144.58.42:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
 东方卫视,http://117.144.58.42:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
@@ -182,22 +184,6 @@ CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 天津卫视,http://117.144.58.42:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
 云南卫视,http://117.144.58.42:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
 重庆卫视,http://117.144.58.42:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
-大湾区卫视,http://117.144.58.42:35455/itv/1000000002000011619.m3u8?cdn=ystenlive&Contentid=1000000002000011619
-厦门卫视,http://117.144.58.42:35455/itv/1000000005000266006.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000005000266006
-吉林卫视,http://117.144.58.42:35455/itv/1000000002000027730.m3u8?cdn=ystenlive&Contentid=1000000002000027730
-内蒙古卫视,http://117.144.58.42:35455/itv/1000000002000014080.m3u8?cdn=ystenlive&Contentid=1000000002000014080
-宁夏卫视,http://117.144.58.42:35455/itv/1000000002000031451.m3u8?livemode=1&stbId=10&cdn=ystenlive&Contentid=1000000002000031451
-甘肃卫视,http://117.144.58.42:35455/itv/5000000011000031121.m3u8?cdn=bestzb
-山西卫视,http://117.144.58.42:35455/itv/1000000002000021220.m3u8?cdn=ystenlive
-陕西卫视,http://117.144.58.42:35455/itv/5000000006000040017.m3u8?cdn=bestzb
-新疆卫视,http://117.144.58.42:35455/itv/1000000002000029441.m3u8?cdn=ystenlive&Contentid=1000000002000029441
-西藏卫视,http://117.144.58.42:35455/itv/1000000002000015894.m3u8?cdn=ystenlive&Contentid=1000000002000015894
-兵团卫视,http://117.144.58.42:35455/itv/1000000005000266005.m3u8?cdn=ystenlive&Contentid=1000000005000266005
-安多卫视,http://117.144.58.42:35455/itv/1000000005000266001.m3u8?cdn=ystenlive&Contentid=1000000005000266001
-康巴卫视,http://117.144.58.42:35455/itv/1000000005000266002.m3u8?cdn=ystenlive&Contentid=1000000005000266002
-农林卫视,http://117.144.58.42:35455/itv/1000000005000266003.m3u8?cdn=ystenlive&Contentid=1000000005000266003
-延边卫视,http://117.144.58.42:35455/itv/1000000005000266008.m3u8?cdn=ystenlive&Contentid=1000000005000266008
-三沙卫视,http://117.144.58.42:35455/itv/5000000011000288016.m3u8?cdn=bestzb
 
 北京卫视,http://171.88.145.30:4022/rtp/239.93.0.180:5140
 东方卫视,http://171.88.145.30:4022/rtp/239.93.0.123:5140
