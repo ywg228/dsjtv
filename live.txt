@@ -85,6 +85,25 @@ CCTV-15音乐,http://171.88.145.30:4022/rtp/239.93.0.103:5140
 CCTV-16奥林匹克,http://171.88.145.30:4022/rtp/239.93.42.54:5140
 CCTV-17农业农村,http://171.88.145.30:4022/rtp/239.93.0.92:5140
 
+CCTV-1综合,http://b.xubo.myds.me:9999/rtp/239.93.0.58:5140
+CCTV-2财经,http://b.xubo.myds.me:9999/rtp/239.93.1.23:6000
+CCTV-3综艺,http://b.xubo.myds.me:9999/rtp/239.93.0.109:5140
+CCTV-4中文国际,http://b.xubo.myds.me:9999/rtp/239.93.1.105:5140
+CCTV-5体育,http://b.xubo.myds.me:9999/rtp/239.93.42.37:5140
+CCTV-5+体育赛事,http://b.xubo.myds.me:9999/rtp/239.93.1.36:8004
+CCTV-6电影,http://b.xubo.myds.me:9999/rtp/239.93.42.38:5140
+CCTV-7国防军事,http://b.xubo.myds.me:9999/rtp/239.93.1.67:5140
+CCTV-8电视剧,http://b.xubo.myds.me:9999/rtp/239.93.42.39:5140
+CCTV-9纪录,http://b.xubo.myds.me:9999/rtp/239.93.1.24:5140
+CCTV-10科教,http://b.xubo.myds.me:9999/rtp/239.93.1.28:5140
+CCTV-11戏曲,http://b.xubo.myds.me:9999/rtp/239.93.0.102:5140
+CCTV-12社会与法,http://b.xubo.myds.me:9999/rtp/239.93.1.30:8124
+CCTV-13新闻,http://b.xubo.myds.me:9999/rtp/239.93.0.66:5140
+CCTV-14少儿,http://b.xubo.myds.me:9999/rtp/239.93.1.29:6000
+CCTV-15音乐,http://b.xubo.myds.me:9999/rtp/239.93.0.103:5140
+CCTV-16奥林匹克,http://b.xubo.myds.me:9999/rtp/239.93.42.54:5140
+CCTV-17农业农村,http://b.xubo.myds.me:9999/rtp/239.93.0.92:5140
+
 CCTV-1综合,http://106.53.99.30/dl/bjyd.php?id=1
 CCTV-2财经,http://106.53.99.30/dl/bjyd.php?id=2
 CCTV-4中文国际,http://106.53.99.30/dl/bjyd.php?id=3
@@ -97,26 +116,6 @@ CCTV-13新闻,http://106.53.99.30/dl/bjyd.php?id=9
 CCTV-14少儿,http://106.53.99.30/dl/bjyd.php?id=10
 CCTV-15音乐,http://106.53.99.30/dl/bjyd.php?id=11
 CCTV-17农业农村,http://106.53.99.30/dl/bjyd.php?id=12
-
-CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV-4中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV-4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV-5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV-8电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV-9纪录,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV-10科教,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV-11戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV-12社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV-13新闻,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV-14少儿,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 卫视,#genre# 
@@ -222,12 +221,42 @@ CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 三沙卫视,http://171.88.145.30:4022/rtp/239.93.42.58:5140
 延边卫视,http://171.88.145.30:4022/rtp/239.93.0.249:5140
 
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
-大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
+江苏卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.89:5140
+广西卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.46:5140
+四川卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.20:1235
+湖南卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.88:5140
+浙江卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.124:5140
+东方卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.123:5140
+北京卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.180:5140
+天津卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.167:5140
+辽宁卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.108:5140
+安徽卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.106:5140
+黑龙江卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.183:5140
+广东卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.181:5140
+深圳卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.182:5140
+湖北卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.250:5140
+吉林卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.248:5140
+山东卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.168:5140
+江西卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.134:5140
+河南卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.45:5140
+河北卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.132:5140
+甘肃卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.81:5140
+重庆卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.107:5140
+东南卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.42:5140
+云南卫视,http://b.xubo.myds.me:9999/rtp/239.93.1.174:5140
+贵州卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.131:5140
+海南卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.80:5140
+陕西卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.143:5140
+山西卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.6:5140
+内蒙古卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.8:5140
+青海卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.192:5140
+宁夏卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.247:5140
+西藏卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.175:5140
+新疆卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.194:5140
+兵团卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.43:5140
+厦门卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.57:5140
+三沙卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.58:5140
+延边卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.249:5140
 
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -357,15 +386,15 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 
 
 国际,#genre#
-鳳凰資訊,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
-鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
-鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+鳳凰資訊,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+鳳凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+鳳凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -396,6 +425,7 @@ TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 翡翠綜合台,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$北美
 翡翠劇集台,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$北美
 明珠劇集台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$北美
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
@@ -403,7 +433,6 @@ PopC電影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
@@ -478,13 +507,14 @@ Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 Animax HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Love Nature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 ViuTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn&sp=chaojidianshi
 ViuTV6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn&sp=chaojidianshi
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
 DW NEWS,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
