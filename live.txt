@@ -337,9 +337,6 @@ CGTN,http://39.134.67.108/PLTV/88888888/224/3221225510/1.m3u8
 CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 
 国际,#genre#
-鳳凰資訊,https://ali.hlspull.yximgs.com/live/daa9c22209bc83e3882cda5bd6a8f4b2.flv
-鳳凰中文,https://ali.hlspull.yximgs.com/live/c1cc24ca6d2a139648f61dba4b8905b6.flv
-鳳凰香港,https://ali.hlspull.yximgs.com/live/ccde6ff41f713db631543e889b6a1cbf.flv
 鳳凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
