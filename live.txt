@@ -454,9 +454,9 @@ France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 影视,#genre#
-CHC影迷电影,http://171.88.145.30:4022/udp/239.93.42.5:5140
-CHC家庭影院,http://171.88.145.30:4022/udp/239.93.42.6:5140
-CHC动作电影,http://171.88.145.30:4022/udp/239.93.42.7:5140
+CHC影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
+CHC家庭影院,http://222.209.208.234:7088/udp/239.93.42.6:5140
+CHC动作电影,http://222.209.208.234:7088/udp/239.93.42.7:5140
 CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
 CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
