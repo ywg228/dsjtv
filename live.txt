@@ -32,6 +32,7 @@ CCTV-16奥林匹克,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002
 CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17农业农村,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7HR8OMfw8B_E228iTrbEqZt%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192559%2C%2C%2C20240420192559%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 CCTV-17农业农村,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
+CCTV-4K超高清,http://138.2.110.209:35455/gaoma/cctv4k.m3u8
 CCTV-4K超高清,http://117.144.58.42:35455/gaoma/cctv4k.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
@@ -177,6 +178,7 @@ CCTV-17农业农村,http://106.53.99.30/dl/bjyd.php?id=12
 东方卫视,http://117.144.58.42:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
 浙江卫视,http://117.144.58.42:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
 江苏卫视,http://117.144.58.42:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
+湖南卫视,http://117.144.58.42:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
 广东卫视,http://117.144.58.42:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
 深圳卫视,http://117.144.58.42:35455/itv/1000000005000265028.m3u8?cdn=ystenlive&Contentid=1000000005000265028
 安徽卫视,http://117.144.58.42:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
