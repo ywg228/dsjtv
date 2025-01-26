@@ -458,7 +458,7 @@ KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 DW NEWS,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-维护不易，支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
+支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 影视,#genre#
 CHC影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
