@@ -439,7 +439,7 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 Thrill,http://co-sg3.jdiptv.cc/live/thrill.m3u8
 ViuTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn&sp=chaojidianshi
 ViuTV6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn&sp=chaojidianshi
-支持一下👉,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
+支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 影视,#genre#
 CHC影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
