@@ -74,25 +74,6 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 中国教育2台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226425
 中国教育4台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225783
 
-CCTV-1综合,http://117.144.58.42:35455/gaoma/cctv1.m3u8
-CCTV-2财经,http://117.144.58.42:35455/gaoma/cctv2.m3u8
-CCTV-3综艺,http://117.144.58.42:35455/gaoma/cctv3.m3u8
-CCTV-4中文国际,http://117.144.58.42:35455/gaoma/cctv4.m3u8
-CCTV-5体育,http://117.144.58.42:35455/gaoma/cctv5.m3u8
-CCTV-5+体育赛事,http://117.144.58.42:35455/gaoma/cctv5p.m3u8
-CCTV-6电影,http://117.144.58.42:35455/gaoma/cctv6.m3u8
-CCTV-7国防军事,http://117.144.58.42:35455/gaoma/cctv7.m3u8
-CCTV-8电视剧,http://117.144.58.42:35455/gaoma/cctv8.m3u8
-CCTV-9纪录,http://117.144.58.42:35455/gaoma/cctv9.m3u8
-CCTV-10科教,http://117.144.58.42:35455/gaoma/cctv10.m3u8
-CCTV-11戏曲,http://117.144.58.42:35455/gaoma/cctv11.m3u8
-CCTV-12社会与法,http://117.144.58.42:35455/gaoma/cctv12.m3u8
-CCTV-13新闻,http://117.144.58.42:35455/gaoma/cctv13.m3u8
-CCTV-14少儿,http://117.144.58.42:35455/gaoma/cctv14.m3u8
-CCTV-15音乐,http://117.144.58.42:35455/gaoma/cctv15.m3u8
-CCTV-16奥林匹克,http://117.144.58.42:35455/gaoma/cctv16.m3u8
-CCTV-17农业农村,http://117.144.58.42:35455/gaoma/cctv17.m3u8
-
 CCTV-1综合,http://171.88.145.30:4022/rtp/239.93.0.58:5140
 CCTV-2财经,http://171.88.145.30:4022/rtp/239.93.1.23:6000
 CCTV-3综艺,http://171.88.145.30:4022/rtp/239.93.0.109:5140
