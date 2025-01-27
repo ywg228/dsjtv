@@ -555,7 +555,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 浙江,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+浙江卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8
 浙江卫视,http://117.144.58.42:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -625,7 +625,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 宁波影视剧,http://nas.jc-hqp.cn:9999/udp/233.50.201.180:5140
 
 四川,#genre#
-四川卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+四川卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8
 四川卫视,http://117.144.58.42:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 
@@ -817,7 +817,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 
 广东,#genre#
-广东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+广东卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_GUANGDONG-HQ/G_GUANGDONG-HQ.m3u8
 广东卫视,http://117.144.58.42:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
@@ -862,6 +862,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 
 江苏,#genre#
+江苏卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
 江苏卫视,http://117.144.58.42:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
 江苏城市,http://kms.yzcancer.cn:8888/udp/239.49.8.107:8000
@@ -926,6 +927,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 
 河南,#genre#
+河南卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
 河南卫视,http://117.144.58.42:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 洛阳新闻综合,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
@@ -1026,7 +1028,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 
 黑龙江,#genre#
-黑龙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+黑龙江卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8
 黑龙江卫视,http://117.144.58.42:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
@@ -1063,7 +1065,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 
 重庆,#genre#
-重庆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+重庆卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8
 重庆卫视,http://117.144.58.42:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 万州新闻综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
@@ -1081,12 +1083,13 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 
 体育,#genre#
+CCTV-5体育,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
+CCTV-5+体育赛事,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
+CCTV-16奥林匹克,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 CCTV-5体育,http://117.144.58.42:35455/gaoma/cctv5.m3u8
 CCTV-5体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV-5+体育赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-5+体育赛事,http://117.144.58.42:35455/gaoma/cctv5p.m3u8
 CCTV-5+体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV-16奥林匹克,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
