@@ -463,9 +463,6 @@ CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-鳳凰中文,http://61.163.58.154:1321/ms/IPTV.php?id=123
-鳳凰資訊,http://61.163.58.154:1321/ms/IPTV.php?id=124
-鳳凰香港,http://61.163.58.154:1321/ms/IPTV.php?id=125
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
