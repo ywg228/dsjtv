@@ -113,25 +113,6 @@ CCTV-15音乐,http://171.88.145.30:4022/rtp/239.93.0.103:5140
 CCTV-16奥林匹克,http://171.88.145.30:4022/rtp/239.93.42.54:5140
 CCTV-17农业农村,http://171.88.145.30:4022/rtp/239.93.0.92:5140
 
-CCTV-1综合,http://183.255.10.190:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
-CCTV-2财经,http://183.255.10.88:6610/200000001898/460000089800010211/1.m3u8?IASHttpSessionId=OTT
-CCTV-3综艺,http://183.255.10.91:6610/200000001898/460000089800010212/1.m3u8?IASHttpSessionId=OTT
-CCTV-4中文国际,http://183.255.10.70:6610/200000001898/460000089800010017/1.m3u8?IASHttpSessionId=OTT
-CCTV-5体育,http://183.255.10.125:6610/200000001898/460000089800010145/1.m3u8?IASHttpSessionId=OTT
-CCTV-5+体育赛事,http://183.255.10.90:6610/200000001898/460000089800010202/1.m3u8?IASHttpSessionId=OTT
-CCTV-6电影,http://183.255.10.92:6610/200000001898/460000089800010214/1.m3u8?IASHttpSessionId=OTT
-CCTV-7国防军事,http://183.255.10.73:6610/200000001898/460000089800010215/1.m3u8?IASHttpSessionId=OTT
-CCTV-8电视剧,http://183.255.10.123:6610/200000001898/460000089800010216/1.m3u8?IASHttpSessionId=OTT
-CCTV-9纪录,http://183.255.10.92:6610/200000001898/460000089800010052/1.m3u8?IASHttpSessionId=OTT
-CCTV-10科教,http://183.255.10.125:6610/200000001898/460000089800010203/1.m3u8?IASHttpSessionId=OTT
-CCTV-11戏曲,http://183.255.10.92:6610/200000001898/460000089800010092/1.m3u8?IASHttpSessionId=OTT
-CCTV-12社会与法,http://183.255.10.188:6610/200000001898/460000089800010205/1.m3u8?IASHttpSessionId=OTT
-CCTV-13新闻,http://183.255.10.121:6610/200000001898/460000089800010093/1.m3u8?IASHttpSessionId=OTT
-CCTV-14少儿,http://183.255.10.190:6610/200000001898/460000089800010207/1.m3u8?IASHttpSessionId=OTT
-CCTV-15音乐,http://183.255.10.190:6610/200000001898/460000089800010094/1.m3u8?IASHttpSessionId=OTT
-CCTV-16奥林匹克,http://183.255.10.68:6610/200000001898/460000089800010142/1.m3u8?IASHttpSessionId=OTT
-CCTV-17农业农村,http://183.255.10.88:6610/200000001898/460000089800010210/1.m3u8?IASHttpSessionId=OTT
-
 
 卫视,#genre# 
 北京卫视,http://tv.jkliu.cn:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
@@ -303,41 +284,6 @@ CCTV-17农业农村,http://183.255.10.88:6610/200000001898/460000089800010210/1.
 厦门卫视,http://171.88.145.30:4022/rtp/239.93.42.57:5140
 三沙卫视,http://171.88.145.30:4022/rtp/239.93.42.58:5140
 延边卫视,http://171.88.145.30:4022/rtp/239.93.0.249:5140
-
-北京卫视,http://183.255.10.68:6610/200000001898/460000089800010143/1.m3u8?IASHttpSessionId=OTT
-东方卫视,http://183.255.10.72:6610/200000001898/460000089800010054/1.m3u8?IASHttpSessionId=OTT
-浙江卫视,http://183.255.10.74:6610/200000001898/460000089800010070/1.m3u8?IASHttpSessionId=OTT
-江苏卫视,http://183.255.10.74:6610/200000001898/460000089800010059/1.m3u8?IASHttpSessionId=OTT
-湖南卫视,http://183.255.10.86:6610/200000001898/460000089800010058/1.m3u8?IASHttpSessionId=OTT
-广东卫视,http://183.255.10.76:6610/200000001898/460000089800010055/1.m3u8?IASHttpSessionId=OTT
-深圳卫视,http://183.255.10.82:6610/200000001898/460000089800010068/1.m3u8?IASHttpSessionId=OTT
-辽宁卫视,http://183.255.10.68:6610/200000001898/460000089800010061/1.m3u8?IASHttpSessionId=OTT
-山东卫视,http://183.255.10.72:6610/200000001898/460000089800010066/1.m3u8?IASHttpSessionId=OTT
-河南卫视,http://183.255.10.76:6610/200000001898/460000089800010071/1.m3u8?IASHttpSessionId=OTT
-湖北卫视,http://183.255.10.121:6610/200000001898/460000089800010057/1.m3u8?IASHttpSessionId=OTT
-海南卫视,http://183.255.10.125:6610/200000001898/460000089800010083/1.m3u8?IASHttpSessionId=OTT
-江西卫视,http://183.255.10.70:6610/200000001898/460000089800010060/1.m3u8?IASHttpSessionId=OTT
-河北卫视,http://183.255.10.70:6610/200000001898/460000089800010101/1.m3u8?IASHttpSessionId=OTT
-重庆卫视,http://183.255.10.68:6610/200000001898/460000089800010053/1.m3u8?IASHttpSessionId=OTT
-四川卫视,http://183.255.10.70:6610/200000001898/460000089800010115/1.m3u8?IASHttpSessionId=OTT
-安徽卫视,http://183.255.10.76:6610/200000001898/460000089800010041/1.m3u8?IASHttpSessionId=OTT
-甘肃卫视,http://183.255.10.76:6610/200000001898/460000089800010098/1.m3u8?IASHttpSessionId=OTT
-黑龙江卫视,http://183.255.10.68:6610/200000001898/460000089800010056/1.m3u8?IASHttpSessionId=OTT
-天津卫视,http://183.255.10.84:6610/200000001898/460000089800010069/1.m3u8?IASHttpSessionId=OTT
-贵州卫视,http://183.255.10.68:6610/200000001898/460000089800010100/1.m3u8?IASHttpSessionId=OTT
-湖北卫视,http://183.255.10.70:6610/200000001898/460000089800010057/1.m3u8?IASHttpSessionId=OTT
-广西卫视,http://183.255.10.74:6610/200000001898/460000089800010099/1.m3u8?IASHttpSessionId=OTT
-东南卫视,http://183.255.10.80:6610/200000001898/460000089800010096/1.m3u8?IASHttpSessionId=OTT
-云南卫视,http://183.255.10.80:6610/200000001898/460000089800010119/1.m3u8?IASHttpSessionId=OTT
-青海卫视,http://183.255.10.86:6610/200000001898/460000089800010111/1.m3u8?IASHttpSessionId=OTT
-吉林卫视,http://183.255.10.72:6610/200000001898/460000089800010075/1.m3u8?IASHttpSessionId=OTT
-宁夏卫视,http://183.255.10.84:6610/200000001898/460000089800010110/1.m3u8?IASHttpSessionId=OTT
-山西卫视,http://183.255.10.68:6610/200000001898/460000089800010114/1.m3u8?IASHttpSessionId=OTT
-陕西卫视,http://183.255.10.82:6610/200000001898/460000089800010113/1.m3u8?IASHttpSessionId=OTT
-新疆卫视,http://183.255.10.80:6610/200000001898/460000089800010116/1.m3u8?IASHttpSessionId=OTT
-西藏卫视,http://183.255.10.80:6610/200000001898/460000089800010123/1.m3u8?IASHttpSessionId=OTT
-内蒙古卫视,http://183.255.10.86:6610/200000001898/460000089800010109/1.m3u8?IASHttpSessionId=OTT
-大湾区卫视,http://183.255.10.86:6610/200000001898/460000089800010108/1.m3u8?IASHttpSessionId=OTT
 
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -656,8 +602,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 浙江,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8
-浙江卫视,http://117.144.58.42:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
+浙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -726,8 +671,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 宁波影视剧,http://nas.jc-hqp.cn:9999/udp/233.50.201.180:5140
 
 四川,#genre#
-四川卫视,http://hegd-livod.tx-cdn.gitv.tv/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8
-四川卫视,http://117.144.58.42:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
+四川卫视,http://tv.jkliu.cn:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 
 四川卫视,http://b.xubo.myds.me:9999/udp/239.93.0.20:1235
@@ -964,7 +908,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 江苏,#genre#
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
-江苏卫视,http://117.144.58.42:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
+江苏卫视,http://tv.jkliu.cn:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
 江苏城市,http://kms.yzcancer.cn:8888/udp/239.49.8.107:8000
 江苏影视,http://kms.yzcancer.cn:8888/udp/239.49.8.118:8000
 优漫卡通,http://kms.yzcancer.cn:8888/udp/239.49.8.119:8000
@@ -1027,7 +971,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 
 河南,#genre#
-河南卫视,http://117.144.58.42:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
+河南卫视,http://tv.jkliu.cn:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 洛阳新闻综合,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
@@ -1127,7 +1071,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 
 黑龙江,#genre#
-黑龙江卫视,http://117.144.58.42:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
+黑龙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
 黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
@@ -1163,7 +1107,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 
 重庆,#genre#
-重庆卫视,http://117.144.58.42:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
+重庆卫视,http://tv.jkliu.cn:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 万州新闻综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 万州三峡移民,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
@@ -1180,9 +1124,10 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 
 体育,#genre#
-CCTV-5体育,http://117.144.58.42:35455/gaoma/cctv5.m3u8
+CCTV-5体育,http://138.2.110.209:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
+CCTV-5+体育赛事,http://138.2.110.209:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
+CCTV-16奥林匹克,http://138.2.110.209:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
 CCTV-5体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV-5+体育赛事,http://117.144.58.42:35455/gaoma/cctv5p.m3u8
 CCTV-5+体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
