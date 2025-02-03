@@ -442,11 +442,11 @@ Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
 中天新聞台,http://125.229.9.67:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-中天新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
 中天新聞台,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MFAF1058269310582693&ct=19669&tsum=5849200b0c11c44f0f6778ccc08842d8
+中天新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctinews&sp=chaojidianshi
 中天綜合台,http://125.229.9.67:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
-中天亞洲台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn&sp=chaojidianshi
 中天亞洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
+中天亞洲台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctiasia_twn&sp=chaojidianshi
 中天娛樂台,http://125.229.9.67:8526/http/220.130.87.218:8081/hls/67/809/ch026.m3u8
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 TVBS,http://125.229.9.67:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
@@ -459,10 +459,10 @@ TVBS歡樂台,http://125.229.9.67:8531/http/220.130.87.218:8081/hls/65/807/ch017
 東森新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvnews&sp=chaojidianshi
 東森超視台,http://125.229.9.67:8524/http/220.130.87.218:8081/hls/64/806/ch014.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
-東森電影台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie&sp=chaojidianshi
 東森電影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
-東森洋片台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern&sp=chaojidianshi
+東森電影台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie&sp=chaojidianshi
 東森洋片台,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
+東森洋片台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvwestern&sp=chaojidianshi
 寰宇新聞台,http://125.229.9.67:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新聞台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=huanyuxinwen_twn&sp=chaojidianshi
 非凡新聞台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
@@ -520,7 +520,9 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 Thrill,http://co-sg3.jdiptv.cc/live/thrill.m3u8
+ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 ViuTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn&sp=chaojidianshi
+ViuTV6,https://live.hkdvb.com/hls/live/96.m3u8?token=599647844641759&edge=edge1.hkdvb.com
 ViuTV6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn&sp=chaojidianshi
 支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
