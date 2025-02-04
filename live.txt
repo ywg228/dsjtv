@@ -1,22 +1,22 @@
 央视,#genre#
-CCTV-1综合,http://tv.jkliu.cn:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
-CCTV-2财经,http://tv.jkliu.cn:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
-CCTV-3综艺,http://tv.jkliu.cn:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
-CCTV-4中文国际,http://tv.jkliu.cn:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
-CCTV-5体育,http://tv.jkliu.cn:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
-CCTV-5+体育赛事,http://tv.jkliu.cn:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
-CCTV-6电影,http://tv.jkliu.cn:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
-CCTV-7国防军事,http://tv.jkliu.cn:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
-CCTV-8电视剧,http://tv.jkliu.cn:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
-CCTV-9纪录,http://tv.jkliu.cn:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
-CCTV-10科教,http://tv.jkliu.cn:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
-CCTV-11戏曲,http://tv.jkliu.cn:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
-CCTV-12社会与法,http://tv.jkliu.cn:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
-CCTV-13新闻,http://tv.jkliu.cn:35455/itv/1000000002000021303.m3u8?cdn=ystenlive&Contentid=1000000002000021303
-CCTV-14少儿,http://tv.jkliu.cn:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
-CCTV-15音乐,http://tv.jkliu.cn:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
-CCTV-16奥林匹克,http://tv.jkliu.cn:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
-CCTV-17农业农村,http://tv.jkliu.cn:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
+CCTV-1综合,http://itv.liusy.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
+CCTV-2财经,http://itv.liusy.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
+CCTV-3综艺,http://itv.liusy.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
+CCTV-4中文国际,http://itv.liusy.top:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
+CCTV-5体育,http://itv.liusy.top:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
+CCTV-5+体育赛事,http://itv.liusy.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
+CCTV-6电影,http://itv.liusy.top:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
+CCTV-7国防军事,http://itv.liusy.top:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
+CCTV-8电视剧,http://itv.liusy.top:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
+CCTV-9纪录,http://itv.liusy.top:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
+CCTV-10科教,http://itv.liusy.top:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
+CCTV-11戏曲,http://itv.liusy.top:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
+CCTV-12社会与法,http://itv.liusy.top:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
+CCTV-13新闻,http://itv.liusy.top:35455/itv/1000000002000021303.m3u8?cdn=ystenlive&Contentid=1000000002000021303
+CCTV-14少儿,http://itv.liusy.top:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
+CCTV-15音乐,http://itv.liusy.top:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
+CCTV-16奥林匹克,http://itv.liusy.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
+CCTV-17农业农村,http://itv.liusy.top:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
 
 CCTV-1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be
 CCTV-2财经,https://www.freetv.top/migu/631780532.m3u8?migutoken=f1ea6162bf184749e3dee945ef1c611efc841f280c1c972432874810b37debb4321af74f5ebcd6c41d7e0980cae4b591eaddcbd8a4b834c71491dbe3a6abacbbd5bcb2e9a43458f6987dbc3f23
@@ -38,24 +38,24 @@ CCTV-14少儿,https://www.freetv.top/migu/624878440.m3u8?migutoken=8f6263d4f2266
 CCTV-15音乐,https://www.freetv.top/migu/673168223.m3u8?migutoken=2e447cfb236b9b9208459f01d54ae98883acf054a4e4609e30d1be458e4e7a995a0759ed44dbd259e7056bccc72093ec50e04a2928f93baac81f4bd99cbbc124ff2052a338074106ac0ba6ff07
 CCTV-17农业农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=cf66ef854495ba1b54b33614854cb3fa8d349cbfd2c569443350ddd5881df8f56b04f93b94ac7e77059d5474a28dd107e8471cd79493d12b367acc72d3475cc8f11168388c82a3d33c3e64191f
 
-CCTV-1综合,http://138.2.110.209:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
-CCTV-2财经,http://138.2.110.209:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
-CCTV-3综艺,http://138.2.110.209:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
-CCTV-4中文国际,http://138.2.110.209:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
-CCTV-5体育,http://138.2.110.209:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
-CCTV-5+体育赛事,http://138.2.110.209:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
-CCTV-6电影,http://138.2.110.209:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
-CCTV-7国防军事,http://138.2.110.209:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
-CCTV-8电视剧,http://138.2.110.209:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
-CCTV-9纪录,http://138.2.110.209:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
-CCTV-10科教,http://138.2.110.209:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
-CCTV-11戏曲,http://138.2.110.209:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
-CCTV-12社会与法,http://138.2.110.209:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
-CCTV-13新闻,http://138.2.110.209:35455/itv/1000000002000021303.m3u8?cdn=ystenlive&Contentid=1000000002000021303
-CCTV-14少儿,http://138.2.110.209:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
-CCTV-15音乐,http://138.2.110.209:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
-CCTV-16奥林匹克,http://138.2.110.209:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
-CCTV-17农业农村,http://138.2.110.209:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
+CCTV-1综合,http://tv.jkliu.cn:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
+CCTV-2财经,http://tv.jkliu.cn:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
+CCTV-3综艺,http://tv.jkliu.cn:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
+CCTV-4中文国际,http://tv.jkliu.cn:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
+CCTV-5体育,http://tv.jkliu.cn:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
+CCTV-5+体育赛事,http://tv.jkliu.cn:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
+CCTV-6电影,http://tv.jkliu.cn:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
+CCTV-7国防军事,http://tv.jkliu.cn:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
+CCTV-8电视剧,http://tv.jkliu.cn:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
+CCTV-9纪录,http://tv.jkliu.cn:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
+CCTV-10科教,http://tv.jkliu.cn:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
+CCTV-11戏曲,http://tv.jkliu.cn:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
+CCTV-12社会与法,http://tv.jkliu.cn:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
+CCTV-13新闻,http://tv.jkliu.cn:35455/itv/1000000002000021303.m3u8?cdn=ystenlive&Contentid=1000000002000021303
+CCTV-14少儿,http://tv.jkliu.cn:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
+CCTV-15音乐,http://tv.jkliu.cn:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
+CCTV-16奥林匹克,http://tv.jkliu.cn:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
+CCTV-17农业农村,http://tv.jkliu.cn:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
 
 CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV-1综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
@@ -115,6 +115,47 @@ CCTV-17农业农村,http://171.88.145.30:4022/rtp/239.93.0.92:5140
 
 
 卫视,#genre# 
+北京卫视,http://itv.liusy.top:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
+东方卫视,http://itv.liusy.top:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
+浙江卫视,http://itv.liusy.top:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
+江苏卫视,http://itv.liusy.top:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
+湖南卫视,http://itv.liusy.top:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
+广东卫视,http://itv.liusy.top:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
+深圳卫视,http://itv.liusy.top:35455/itv/1000000005000265028.m3u8?cdn=ystenlive&Contentid=1000000005000265028
+辽宁卫视,http://itv.liusy.top:35455/itv/1000000005000265022.m3u8?cdn=ystenlive&Contentid=1000000005000265022
+山东卫视,http://itv.liusy.top:35455/itv/1000000005000265019.m3u8?cdn=ystenlive&Contentid=1000000005000265019
+河南卫视,http://itv.liusy.top:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
+安徽卫视,http://itv.liusy.top:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
+东南卫视,http://itv.liusy.top:35455/itv/1000000005000265033.m3u8?cdn=ystenlive&Contentid=1000000005000265033
+甘肃卫视,http://itv.liusy.top:35455/itv/5000000011000031121.m3u8?cdn=bestzb&Contentid=5000000011000031121
+广西卫视,http://itv.liusy.top:35455/itv/5000000011000031118.m3u8?cdn=bestzb&Contentid=5000000011000031118
+贵州卫视,http://itv.liusy.top:35455/itv/5000000004000025843.m3u8?cdn=bestzb&Contentid=5000000004000025843
+海南卫视,http://itv.liusy.top:35455/itv/5000000004000006211.m3u8?cdn=bestzb&Contentid=5000000004000006211
+河北卫视,http://itv.liusy.top:35455/itv/5000000006000040016.m3u8?cdn=bestzb&Contentid=5000000006000040016
+黑龙江卫视,http://itv.liusy.top:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
+湖北卫视,http://itv.liusy.top:35455/itv/1000000001000024621.m3u8?cdn=ystenlive&Contentid=1000000001000024621
+吉林卫视,http://itv.liusy.top:35455/itv/5000000011000031117.m3u8?cdn=bestzb&Contentid=5000000011000031117
+江西卫视,http://itv.liusy.top:35455/itv/1000000006000268001.m3u8?cdn=ystenlive&Contentid=1000000006000268001
+青海卫视,http://itv.liusy.top:35455/itv/1000000002000013359.m3u8?cdn=ystenlive&Contentid=1000000002000013359
+四川卫视,http://itv.liusy.top:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
+天津卫视,http://itv.liusy.top:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
+云南卫视,http://itv.liusy.top:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
+重庆卫视,http://itv.liusy.top:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
+
+东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=39d71e54ce845693dcf18d448e47f4bcb96160d6a4d5cdce70a4b176510154f11641d32ad88b38d8c436057539f8e2fa3ec0ea15c8300f4bac8fcf7959caa82d1c409b9fbb89340797a38c624e
+广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=a3507f71846fb8c8ce423fac2278747f0f299c1d54e39eab0f6ad4a7828c569d61cdc81df6df253417efb753136138296d8b75d0b3372eb4db28d5ca8aae453e8dcb81f7ed43bcbd2f69a89bf0
+江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=4dd4b4b9e65aedf9a69ce7aa66b8daa27bb37cd20c5b69c472a022ce240593d25ee65434f22ceca390a0da26ca8a97d62489ec3005b0f01baad65c3a99cbe12eed5d925720e172cafea5d6bfc6
+江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=b1c86139db1b546f9ce5585c1e86bc823ad318c7e327ac7c8454a9b3e0f5a4f77948813e1073800e28771c0e81535981a422656d394d84d58b7a79be12e2b35ca14493b0265dcf4740f51818e5
+河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=919a9af14e1103336139ed32b7602ebb696bb7ab8afa1ac3b4af8f243b314a698e12d897e9cb3c8f33531a357a2b6fc8017747d8f61e865a6bd3e282ff9d08af23484f0ab5cef6dd2ed94b3d47
+陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3d2992ea78cf0d16e27303f2161b886b2f53f2772c9048d2cf024f810a7a6007aa15c432ba27023ed9ebdf2d93f5d4510ba233d9e8a9a429cc12bc2fb6a40c03bfa415dc27c8f998eec1905302
+大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=22c28ab72744cd3ae1500fcedd9aa645eb0c35326cccb8cc6253c912a2fbdadb109d5f005d7dbbb62dbcb2e1f9a30bfa1935a4a046787bb5ac3e9ac1b5b654c16c2f7753fc37d2d51b2916310b
+湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=bba5a970ce114fafd64bca23b7b50a79d0f932b772f4d9c209414defc29b55140664b61dc3413c1a91e0b3d8af88ea1c2a7706e1bb66d943b8a6df1f104519416374f6f6d718d60b0f398aa105
+吉林卫视,https://www.freetv.top/migu/947472500.m3u8?migutoken=3ea6f853b75f0ffefb45361abd4f4afde99a41c67eb1d480a3e4e1d7fb1a0dd6f93e6011475330b929d27f5b3fed5ab892298676a54c05a9741d9a11dc442899f4101d60bec353f2a25c1c2c78
+青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=8cb77e68670fb180bb2d40bb3f9d0d3c72a80a30370e3b56334120379cd96c909fd6e2387d582d0d2f41d59f364a02fbac324d8471fe692a41288aad2c923b0aaf6f59795a02c9fd2d0c12e5b8
+东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=8deea4a385c3339831245ca5c4b1b355e566bda408004845ea4932554f7f4de6373824ea5bd6a99b11020ed7ae2aa79dd1735d5b5f26b52d832d339405d898301464860966a0cf609efa0f8aab
+海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=c5c37a26afd0b87dc79239efe80dde89ac5c64200326fcbf0cd17faa33f8c470eb2c95701967f1af90804283e1f27aa12cd1316350a4bd46315784b78c238e110485c2089f229d38e69fe4bac3
+海峡卫视,https://www.freetv.top/migu/849119120.m3u8?migutoken=c29f19eea866604a3ebe7b6179cf1804cb8a0a871840fc4086a9f9202a85fbf6f027d961c7c244cdff31b026e98f7c274977478193bcaeb2ea816b2f133ecf73238c9fdc6c0ec284791000fb86
+
 北京卫视,http://tv.jkliu.cn:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
 东方卫视,http://tv.jkliu.cn:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
 浙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
@@ -141,47 +182,6 @@ CCTV-17农业农村,http://171.88.145.30:4022/rtp/239.93.0.92:5140
 天津卫视,http://tv.jkliu.cn:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
 云南卫视,http://tv.jkliu.cn:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
 重庆卫视,http://tv.jkliu.cn:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
-
-东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=39d71e54ce845693dcf18d448e47f4bcb96160d6a4d5cdce70a4b176510154f11641d32ad88b38d8c436057539f8e2fa3ec0ea15c8300f4bac8fcf7959caa82d1c409b9fbb89340797a38c624e
-广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=a3507f71846fb8c8ce423fac2278747f0f299c1d54e39eab0f6ad4a7828c569d61cdc81df6df253417efb753136138296d8b75d0b3372eb4db28d5ca8aae453e8dcb81f7ed43bcbd2f69a89bf0
-江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=4dd4b4b9e65aedf9a69ce7aa66b8daa27bb37cd20c5b69c472a022ce240593d25ee65434f22ceca390a0da26ca8a97d62489ec3005b0f01baad65c3a99cbe12eed5d925720e172cafea5d6bfc6
-江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=b1c86139db1b546f9ce5585c1e86bc823ad318c7e327ac7c8454a9b3e0f5a4f77948813e1073800e28771c0e81535981a422656d394d84d58b7a79be12e2b35ca14493b0265dcf4740f51818e5
-河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=919a9af14e1103336139ed32b7602ebb696bb7ab8afa1ac3b4af8f243b314a698e12d897e9cb3c8f33531a357a2b6fc8017747d8f61e865a6bd3e282ff9d08af23484f0ab5cef6dd2ed94b3d47
-陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3d2992ea78cf0d16e27303f2161b886b2f53f2772c9048d2cf024f810a7a6007aa15c432ba27023ed9ebdf2d93f5d4510ba233d9e8a9a429cc12bc2fb6a40c03bfa415dc27c8f998eec1905302
-大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=22c28ab72744cd3ae1500fcedd9aa645eb0c35326cccb8cc6253c912a2fbdadb109d5f005d7dbbb62dbcb2e1f9a30bfa1935a4a046787bb5ac3e9ac1b5b654c16c2f7753fc37d2d51b2916310b
-湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=bba5a970ce114fafd64bca23b7b50a79d0f932b772f4d9c209414defc29b55140664b61dc3413c1a91e0b3d8af88ea1c2a7706e1bb66d943b8a6df1f104519416374f6f6d718d60b0f398aa105
-吉林卫视,https://www.freetv.top/migu/947472500.m3u8?migutoken=3ea6f853b75f0ffefb45361abd4f4afde99a41c67eb1d480a3e4e1d7fb1a0dd6f93e6011475330b929d27f5b3fed5ab892298676a54c05a9741d9a11dc442899f4101d60bec353f2a25c1c2c78
-青海卫视,https://www.freetv.top/migu/947472506.m3u8?migutoken=8cb77e68670fb180bb2d40bb3f9d0d3c72a80a30370e3b56334120379cd96c909fd6e2387d582d0d2f41d59f364a02fbac324d8471fe692a41288aad2c923b0aaf6f59795a02c9fd2d0c12e5b8
-东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=8deea4a385c3339831245ca5c4b1b355e566bda408004845ea4932554f7f4de6373824ea5bd6a99b11020ed7ae2aa79dd1735d5b5f26b52d832d339405d898301464860966a0cf609efa0f8aab
-海南卫视,https://www.freetv.top/migu/947472502.m3u8?migutoken=c5c37a26afd0b87dc79239efe80dde89ac5c64200326fcbf0cd17faa33f8c470eb2c95701967f1af90804283e1f27aa12cd1316350a4bd46315784b78c238e110485c2089f229d38e69fe4bac3
-海峡卫视,https://www.freetv.top/migu/849119120.m3u8?migutoken=c29f19eea866604a3ebe7b6179cf1804cb8a0a871840fc4086a9f9202a85fbf6f027d961c7c244cdff31b026e98f7c274977478193bcaeb2ea816b2f133ecf73238c9fdc6c0ec284791000fb86
-
-北京卫视,http://138.2.110.209:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
-东方卫视,http://138.2.110.209:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
-浙江卫视,http://138.2.110.209:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
-江苏卫视,http://138.2.110.209:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
-湖南卫视,http://138.2.110.209:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
-广东卫视,http://138.2.110.209:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
-深圳卫视,http://138.2.110.209:35455/itv/1000000005000265028.m3u8?cdn=ystenlive&Contentid=1000000005000265028
-辽宁卫视,http://138.2.110.209:35455/itv/1000000005000265022.m3u8?cdn=ystenlive&Contentid=1000000005000265022
-山东卫视,http://138.2.110.209:35455/itv/1000000005000265019.m3u8?cdn=ystenlive&Contentid=1000000005000265019
-河南卫视,http://138.2.110.209:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
-安徽卫视,http://138.2.110.209:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
-东南卫视,http://138.2.110.209:35455/itv/1000000005000265033.m3u8?cdn=ystenlive&Contentid=1000000005000265033
-甘肃卫视,http://138.2.110.209:35455/itv/5000000011000031121.m3u8?cdn=bestzb&Contentid=5000000011000031121
-广西卫视,http://138.2.110.209:35455/itv/5000000011000031118.m3u8?cdn=bestzb&Contentid=5000000011000031118
-贵州卫视,http://138.2.110.209:35455/itv/5000000004000025843.m3u8?cdn=bestzb&Contentid=5000000004000025843
-海南卫视,http://138.2.110.209:35455/itv/5000000004000006211.m3u8?cdn=bestzb&Contentid=5000000004000006211
-河北卫视,http://138.2.110.209:35455/itv/5000000006000040016.m3u8?cdn=bestzb&Contentid=5000000006000040016
-黑龙江卫视,http://138.2.110.209:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
-湖北卫视,http://138.2.110.209:35455/itv/1000000001000024621.m3u8?cdn=ystenlive&Contentid=1000000001000024621
-吉林卫视,http://138.2.110.209:35455/itv/5000000011000031117.m3u8?cdn=bestzb&Contentid=5000000011000031117
-江西卫视,http://138.2.110.209:35455/itv/1000000006000268001.m3u8?cdn=ystenlive&Contentid=1000000006000268001
-青海卫视,http://138.2.110.209:35455/itv/1000000002000013359.m3u8?cdn=ystenlive&Contentid=1000000002000013359
-四川卫视,http://138.2.110.209:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
-天津卫视,http://138.2.110.209:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
-云南卫视,http://138.2.110.209:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
-重庆卫视,http://138.2.110.209:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
 
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
@@ -604,7 +604,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 浙江,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
+浙江卫视,http://itv.liusy.top:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -673,7 +673,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 宁波影视剧,http://nas.jc-hqp.cn:9999/udp/233.50.201.180:5140
 
 四川,#genre#
-四川卫视,http://tv.jkliu.cn:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
+四川卫视,http://itv.liusy.top:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 
 四川卫视,http://b.xubo.myds.me:9999/udp/239.93.0.20:1235
@@ -864,7 +864,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 
 广东,#genre#
-广东卫视,http://tv.jkliu.cn:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
+广东卫视,http://itv.liusy.top:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
@@ -909,7 +909,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 江苏,#genre#
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
-江苏卫视,http://tv.jkliu.cn:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
+江苏卫视,http://itv.liusy.top:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
 江苏城市,http://kms.yzcancer.cn:8888/udp/239.49.8.107:8000
 江苏影视,http://kms.yzcancer.cn:8888/udp/239.49.8.118:8000
 优漫卡通,http://kms.yzcancer.cn:8888/udp/239.49.8.119:8000
@@ -972,7 +972,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 
 河南,#genre#
-河南卫视,http://tv.jkliu.cn:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
+河南卫视,http://itv.liusy.top:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 洛阳新闻综合,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
@@ -1072,7 +1072,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 
 黑龙江,#genre#
-黑龙江卫视,http://tv.jkliu.cn:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
+黑龙江卫视,http://itv.liusy.top:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
 黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
@@ -1108,7 +1108,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 
 重庆,#genre#
-重庆卫视,http://tv.jkliu.cn:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
+重庆卫视,http://itv.liusy.top:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 万州新闻综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 万州三峡移民,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
@@ -1125,9 +1125,9 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 
 体育,#genre#
-CCTV-5体育,http://tv.jkliu.cn:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
-CCTV-5+体育赛事,http://tv.jkliu.cn:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
-CCTV-16奥林匹克,http://tv.jkliu.cn:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
+CCTV-5体育,http://itv.liusy.top:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
+CCTV-5+体育赛事,http://itv.liusy.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
+CCTV-16奥林匹克,http://itv.liusy.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
 CCTV-5体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5+体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
