@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV-1综合,http://117.144.58.42:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
 CCTV-2财经,http://117.144.58.42:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
 CCTV-3综艺,http://117.144.58.42:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
@@ -43,7 +44,6 @@ CGTN西班牙语,http://120.76.248.139/live/bfgd/4200000306.m3u8
 中国教育1台,http://120.76.248.139/live/bfgd/4200000135.m3u8
 中国教育2台,http://120.76.248.139/live/bfgd/4200000492.m3u8
 
-CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV-1综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
 CCTV-2财经,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
@@ -557,7 +557,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 浙江,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://itv.liusy.top:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
+浙江卫视,http://117.144.58.42:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -626,7 +626,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 宁波影视剧,http://nas.jc-hqp.cn:9999/udp/233.50.201.180:5140
 
 四川,#genre#
-四川卫视,http://itv.liusy.top:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
+四川卫视,http://117.144.58.42:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 
 四川卫视,http://b.xubo.myds.me:9999/udp/239.93.0.20:1235
@@ -805,7 +805,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 
 广东,#genre#
-广东卫视,http://itv.liusy.top:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
+广东卫视,http://117.144.58.42:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
@@ -913,7 +913,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 
 河南,#genre#
-河南卫视,http://itv.liusy.top:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
+河南卫视,http://117.144.58.42:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 洛阳新闻综合,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
@@ -1013,7 +1013,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
 
 黑龙江,#genre#
-黑龙江卫视,http://itv.liusy.top:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
+黑龙江卫视,http://117.144.58.42:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
 黑龙江都市,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
@@ -1049,7 +1049,7 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 
 重庆,#genre#
-重庆卫视,http://itv.liusy.top:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
+重庆卫视,http://117.144.58.42:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 万州新闻综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 万州三峡移民,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
@@ -1066,9 +1066,9 @@ CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 
 体育,#genre#
-CCTV-5体育,http://itv.liusy.top:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
-CCTV-5+体育赛事,http://itv.liusy.top:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
-CCTV-16奥林匹克,http://itv.liusy.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
+CCTV-5体育,http://117.144.58.42:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
+CCTV-5+体育赛事,http://117.144.58.42:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
+CCTV-16奥林匹克,http://117.144.58.42:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
 CCTV-5体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5+体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
