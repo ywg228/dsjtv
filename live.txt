@@ -43,25 +43,6 @@ CGTN西班牙语,http://120.76.248.139/live/bfgd/4200000306.m3u8
 中国教育1台,http://120.76.248.139/live/bfgd/4200000135.m3u8
 中国教育2台,http://120.76.248.139/live/bfgd/4200000492.m3u8
 
-CCTV-1综合,http://tv.jkliu.cn:35455/itv/1000000005000265001.m3u8?cdn=ystenlive&Contentid=1000000005000265001
-CCTV-2财经,http://tv.jkliu.cn:35455/itv/1000000001000023315.m3u8?cdn=ystenlive&Contentid=1000000001000023315
-CCTV-3综艺,http://tv.jkliu.cn:35455/itv/1000000005000265003.m3u8?cdn=ystenlive&Contentid=1000000005000265003
-CCTV-4中文国际,http://tv.jkliu.cn:35455/itv/1000000005000265004.m3u8?cdn=ystenlive&Contentid=1000000005000265004
-CCTV-5体育,http://tv.jkliu.cn:35455/itv/1000000005000025222.m3u8?cdn=ystenlive&Contentid=1000000005000025222
-CCTV-5+体育赛事,http://tv.jkliu.cn:35455/itv/1000000005000265016.m3u8?cdn=ystenlive&Contentid=1000000005000265016
-CCTV-6电影,http://tv.jkliu.cn:35455/itv/1000000001000001737.m3u8?cdn=ystenlive&Contentid=1000000001000001737
-CCTV-7国防军事,http://tv.jkliu.cn:35455/itv/1000000001000024341.m3u8?cdn=ystenlive&Contentid=1000000001000024341
-CCTV-8电视剧,http://tv.jkliu.cn:35455/itv/1000000005000265008.m3u8?cdn=ystenlive&Contentid=1000000005000265008
-CCTV-9纪录,http://tv.jkliu.cn:35455/itv/1000000001000014583.m3u8?cdn=ystenlive&Contentid=1000000001000014583
-CCTV-10科教,http://tv.jkliu.cn:35455/itv/1000000001000023734.m3u8?cdn=ystenlive&Contentid=1000000001000023734
-CCTV-11戏曲,http://tv.jkliu.cn:35455/itv/1000000005000265011.m3u8?cdn=ystenlive&Contentid=1000000005000265011
-CCTV-12社会与法,http://tv.jkliu.cn:35455/itv/1000000001000032494.m3u8?cdn=ystenlive&Contentid=1000000001000032494
-CCTV-13新闻,http://tv.jkliu.cn:35455/itv/1000000002000021303.m3u8?cdn=ystenlive&Contentid=1000000002000021303
-CCTV-14少儿,http://tv.jkliu.cn:35455/itv/1000000001000008170.m3u8?cdn=ystenlive&Contentid=1000000001000008170
-CCTV-15音乐,http://tv.jkliu.cn:35455/itv/1000000005000265014.m3u8?cdn=ystenlive&Contentid=1000000005000265014
-CCTV-16奥林匹克,http://tv.jkliu.cn:35455/itv/1000000006000233002.m3u8?cdn=ystenlive&Contentid=1000000006000233002
-CCTV-17农业农村,http://tv.jkliu.cn:35455/itv/1000000006000268004.m3u8?cdn=ystenlive&Contentid=1000000006000268004
-
 CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 CCTV-1综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
 CCTV-2财经,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
