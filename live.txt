@@ -383,20 +383,18 @@ CGTN纪录,http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 澳門Macau,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 澳視澳門,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$4K
-翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB Plus,http://fm1077.serv00.net/Smart.php?id=j2_twn
+TVB Plus,rtmp://116.93.98.236/sat/hk011
 無綫新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
-明珠台,http://fm1077.serv00.net/Smart.php?id=pearl_twn
 TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
 娛樂新聞台,https://lb-mvtv-live.v2h-cdn.com/redirect/enew/enew.stream?type=m3u8
 美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-美亞電影台,http://co-sg3.jdiptv.cc/live/xgmydygy.m3u8
 Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
