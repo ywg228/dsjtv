@@ -1132,9 +1132,12 @@ Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaispor
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 
 轮播,#genre#
-成龙,http://lxajh.top/tv/douyu.php?id=3379942
-周星驰,http://lxajh.top/tv/douyu.php?id=122402
-林正英,http://lxajh.top/tv/douyu.php?id=7356023
+成龙,https://live.metshop.top/huya/11342386
+周星驰,https://live.metshop.top/huya/11342412
+李连杰,https://live.metshop.top/huya/11342390
+刘德华,https://live.metshop.top/huya/11342424
+林正英,https://live.metshop.top/huya/11342421
+经典影视,http://lxajh.top/tv/douyu.php?id=12143022
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 热门港剧,http://lxajh.top/tv/douyu.php?id=5522351
 香港赌片,hhttp://lxajh.top/tv/douyu.php?id=315457
