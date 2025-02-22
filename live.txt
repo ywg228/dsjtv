@@ -1,6 +1,6 @@
 央视,#genre#
-CCTV-1综合,http://111.221.137.228:8278/cctv1/playlist.m3u8$720P
 CCTV-1综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+CCTV-1综合,http://111.221.137.228:8278/cctv1/playlist.m3u8$720P
 CCTV-1综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
 CCTV-2财经,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
