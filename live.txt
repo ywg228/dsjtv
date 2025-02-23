@@ -493,7 +493,7 @@ ViuTV6,https://live.hkdvb.com/hls/live/96.m3u8?token=419775423561809&edge=edge1.
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$4K
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 影视,#genre#
