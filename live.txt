@@ -1235,4 +1235,5 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 
