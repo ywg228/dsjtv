@@ -57,6 +57,20 @@ CCTV-14少儿,https://wyzy.online:55734/allinone/migu/624878440.m3u8?migutoken=8
 CCTV-15音乐,https://wyzy.online:55734/allinone/migu/673168223.m3u8?migutoken=263c7abb3fd20ead8676f7d31e488ebdea9115b8a7b5bb5c4231ad9fc0b86946a10616d0e2f29c07105cfd38ffa384fdcc01224c75909b18e162383b7af9402ae1f3eee44c1326aa11a228a3f8
 CCTV-17农业农村,https://wyzy.online:55734/allinone/migu/673168256.m3u8?migutoken=5838a9a2d53fdbd5234edefff70435e2dd12b1b4015485cc7d6a67ffb501edfd845953f34c0846b0a8bdf2d360c9669d01bf4fccd63ed1cfaa4427c397013060e931977929e6c1a3242e0b9c7f
 
+CCTV-1综合,http://ms.fxim.net:808/hls/1/index.m3u8
+CCTV-2财经,http://ms.fxim.net:808/hls/2/index.m3u8
+CCTV-3综艺,http://ms.fxim.net:808/hls/3/index.m3u8
+CCTV-4中文国际,http://ms.fxim.net:808/hls/4/index.m3u8
+CCTV-5体育,http://ms.fxim.net:808/hls/5/index.m3u8
+CCTV-5+体育赛事,http://ms.fxim.net:808/hls/13/index.m3u8
+CCTV-6电影,http://ms.fxim.net:808/hls/6/index.m3u8
+CCTV-7国防军事,http://ms.fxim.net:808/hls/7/index.m3u8
+CCTV-8电视剧,http://ms.fxim.net:808/hls/8/index.m3u8
+CCTV-9纪录,http://ms.fxim.net:808/hls/9/index.m3u8
+CCTV-10科教,http://ms.fxim.net:808/hls/10/index.m3u8
+CCTV-11戏曲,http://ms.fxim.net:808/hls/11/index.m3u8
+CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
+
 CCTV-1综合,https://www.shqsy.com/tv/zb/yfy.php?id=cctv1
 CCTV-2财经,https://www.shqsy.com/tv/zb/yfy.php?id=cctv2
 CCTV-3综艺,https://www.shqsy.com/tv/zb/yfy.php?id=cctv3
