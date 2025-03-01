@@ -59,20 +59,10 @@ CCTV-17农业农村,https://wyzy.online:55734/allinone/migu/673168256.m3u8?migut
 
 CCTV-1综合,http://jf.jxx2023.work:40446/tsfile/live/0001_1.m3u8
 CCTV-2财经,http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8
-CCTV-3综艺,http://jf.jxx2023.work:40446/tsfile/live/0003_1.m3u8
-CCTV-4中文国际,http://jf.jxx2023.work:40446/tsfile/live/1021_1.m3u8
-CCTV-5体育,http://jf.jxx2023.work:40446/tsfile/live/0005_1.m3u8
-CCTV-6电影,http://jf.jxx2023.work:40446/tsfile/live/0006_1.m3u8
 CCTV-7国防军事,http://jf.jxx2023.work:40446/tsfile/live/0007_1.m3u8
-CCTV-8电视剧,http://jf.jxx2023.work:40446/tsfile/live/0008_1.m3u8
 CCTV-9纪录,http://jf.jxx2023.work:40446/tsfile/live/0011_3.m3u8
 CCTV-10科教,http://jf.jxx2023.work:40446/tsfile/live/0010_1.m3u8
-CCTV-11戏曲,http://jf.jxx2023.work:40446/tsfile/live/0011_2.m3u8
 CCTV-12社会与法,http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8
-CCTV-13新闻,http://jf.jxx2023.work:40446/tsfile/live/0013_1.m3u8
-CCTV-14少儿,http://jf.jxx2023.work:40446/tsfile/live/1058_1.m3u8
-CCTV-15音乐,http://jf.jxx2023.work:40446/tsfile/live/0015_2.m3u8
-CCTV-17农业农村,http://jf.jxx2023.work:40446/tsfile/live/0019_1.m3u8
 
 CCTV-1综合,http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV-2财经,http://ms.fxim.net:808/hls/2/index.m3u8
