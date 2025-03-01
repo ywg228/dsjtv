@@ -281,9 +281,9 @@ CGTN纪录,http://39.134.67.106/PLTV/88888888/224/3221225509/1.m3u8
 
 
 国际,#genre#
-鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 鳳凰中文,https://bxtv.587788.xyz/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 鳳凰資訊,https://bxtv.587788.xyz/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 鳳凰香港,https://bxtv.587788.xyz/stream/bxtv/null-5/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
@@ -296,23 +296,24 @@ CGTN纪录,http://39.134.67.106/PLTV/88888888/224/3221225509/1.m3u8
 環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 澳門蓮花,http://php.jdshipin.com:8880/amlh.php
-澳門Macau,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
-澳視澳門,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$4K
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+澳門Macau,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳視澳門,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$4K
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,rtmp://116.93.98.236/sat/hk011
-無綫新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-千禧經典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河台,http://php.jdshipin.com/smt.php?id=Xinhe
+千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 娛樂新聞台,http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist.m3u
 娛樂新聞台,https://lb-mvtv-live.v2h-cdn.com/redirect/enew/enew.stream?type=m3u8
-美亞電影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-Astro華麗台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-Astro劇集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+Astro華麗台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 
 中視,rtmp://f13h.mine.nu/sat/tv091
 華視,rtmp://f13h.mine.nu/sat/tv111
