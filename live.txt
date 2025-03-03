@@ -172,6 +172,20 @@ CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
 海南卫视,https://migu.bxtv.587788.xyz/migu/947472502.m3u8?migutoken=7f05ca6b78461cf2a2cf1923f394d2f3824d5b3db3b4e5f04c3fa3aa621167a4419749ff6320e400fe9b9130dbbc4a00b2ee7f8059fb573141bc4031c2ad126b0f685f1f44664d0507a16342c0
 大湾区卫视,https://migu.bxtv.587788.xyz/migu/608917627.m3u8?migutoken=08b01dd57a9f7801a5afd4d26737303ec27325fb8cfaf922425c4471921e19bdd001b6f1e30412215b5f9cf3a61ba475e115cc1cf422f9d2b238edb39d705870f219a5f6d4abfffdfddf6c2f7e
 
+北京卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=17
+湖南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=18
+浙江卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=19
+东方卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=20
+江苏卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=21
+东南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=22
+深圳卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=23
+海南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=24
+湖北卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=25
+山东卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=26
+四川卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=27
+重庆卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=28
+黑龙江卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=29
+
 北京卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000031556/bestzb/index.m3u8
 东方卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000014098/bestzb/index.m3u8
 浙江卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000007275/bestzb/index.m3u8
