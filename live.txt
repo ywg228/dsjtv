@@ -504,14 +504,16 @@ CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
-北京影视,http://1.203.76.54:7788/udp/225.1.8.82:8000
-北京影视,http://1.203.76.54:7788/udp/225.1.0.84:8000
+北京影视,http://123.113.236.119:8012/udp/239.3.1.158:8000
+北京影视,http://123.112.211.109:4022/udp/239.3.1.158:8000
+北京IPTV4K超清,http://123.113.236.119:8012/udp/239.3.1.249:8001
+北京IPTV4K超清,http://123.112.211.109:4022/udp/239.3.1.249:8001
 北京IPTV4K超清,http://123.113.237.10:11111/udp/239.3.1.249:8001
-北京IPTV4K超清,http://1.203.76.54:7788/udp/225.1.8.211:8002
 北京IPTV4K超清,http://123.113.237.10:11111/udp/239.2.1.249:8002
-北京IPTV4K超清,http://1.203.76.54:7788/udp/225.1.0.205:1025
-北京IPTV淘电影,http://1.203.76.54:7788/udp/225.1.8.38:8002
-北京IPTV淘电影,http://1.203.76.54:7788/udp/225.1.0.115:102
+北京IPTV淘电影,http://123.113.236.74:8012/udp/239.3.1.250:8001
+北京IPTV淘电影,http://123.112.211.109:4022/udp/239.3.1.250:8001
+北京IPTV淘电影,http://123.117.165.246:8118/udp/239.2.1.250:8002
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南电影,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNDYMPP360.m3u8
 湖南电影,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-film.m3u8
 陕西西部电影,http://1.82.183.74:9999/udp/239.111.205.102:5140
