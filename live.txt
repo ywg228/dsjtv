@@ -120,13 +120,6 @@ CCTV-14少儿,https://www.shqsy.com/tv/zb/mg.php?id=CCTV14
 CCTV-15音乐,https://www.shqsy.com/tv/zb/mg.php?id=CCTV15
 CCTV-17农业农村,https://www.shqsy.com/tv/zb/mg.php?id=CCTV17
 
-CCTV-1综合,http://jf.jxx2023.work:40446/tsfile/live/0001_1.m3u8
-CCTV-2财经,http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8
-CCTV-7国防军事,http://jf.jxx2023.work:40446/tsfile/live/0007_1.m3u8
-CCTV-9纪录,http://jf.jxx2023.work:40446/tsfile/live/0011_3.m3u8
-CCTV-10科教,http://jf.jxx2023.work:40446/tsfile/live/0010_1.m3u8
-CCTV-12社会与法,http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8
-
 CCTV-1综合,http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV-2财经,http://ms.fxim.net:808/hls/2/index.m3u8
 CCTV-3综艺,http://ms.fxim.net:808/hls/3/index.m3u8
@@ -140,6 +133,13 @@ CCTV-9纪录,http://ms.fxim.net:808/hls/9/index.m3u8
 CCTV-10科教,http://ms.fxim.net:808/hls/10/index.m3u8
 CCTV-11戏曲,http://ms.fxim.net:808/hls/11/index.m3u8
 CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
+
+CCTV-1综合,http://jf.jxx2023.work:40446/tsfile/live/0001_1.m3u8
+CCTV-2财经,http://jf.jxx2023.work:40446/tsfile/live/0002_1.m3u8
+CCTV-7国防军事,http://jf.jxx2023.work:40446/tsfile/live/0007_1.m3u8
+CCTV-9纪录,http://jf.jxx2023.work:40446/tsfile/live/0011_3.m3u8
+CCTV-10科教,http://jf.jxx2023.work:40446/tsfile/live/0010_1.m3u8
+CCTV-12社会与法,http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8
 
 
 卫视,#genre# 
@@ -233,6 +233,25 @@ CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
 重庆卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000025797/bestzb/index.m3u8
 安多卫视,http://huawei.636191.xyz:50001/TVOD/1000000005000266001/ystenlive/index.m3u8
 
+浙江卫视,http://ms.fxim.net:808/hls/14/index.m3u8
+江苏卫视,http://ms.fxim.net:808/hls/16/index.m3u8
+东方卫视,http://ms.fxim.net:808/hls/17/index.m3u8
+安徽卫视,http://ms.fxim.net:808/hls/18/index.m3u8
+重庆卫视,http://ms.fxim.net:808/hls/19/index.m3u8
+四川卫视,http://ms.fxim.net:808/hls/20/index.m3u8
+天津卫视,http://ms.fxim.net:808/hls/21/index.m3u8
+北京卫视,http://ms.fxim.net:808/hls/22/index.m3u8
+青海卫视,http://ms.fxim.net:808/hls/23/index.m3u8
+辽宁卫视,http://ms.fxim.net:808/hls/24/index.m3u8
+江西卫视,http://ms.fxim.net:808/hls/25/index.m3u8
+甘肃卫视,http://ms.fxim.net:808/hls/26/index.m3u8
+广东卫视,http://ms.fxim.net:808/hls/27/index.m3u8
+吉林卫视,http://ms.fxim.net:808/hls/28/index.m3u8
+湖南卫视,http://ms.fxim.net:808/hls/29/index.m3u8
+湖北卫视,http://ms.fxim.net:808/hls/30/index.m3u8
+河北卫视,http://ms.fxim.net:808/hls/31/index.m3u8
+河南卫视,http://ms.fxim.net:808/hls/32/index.m3u8
+
 安徽卫视,http://jf.jxx2023.work:40446/tsfile/live/1007_1.m3u8
 河南卫视,http://jf.jxx2023.work:40446/tsfile/live/0139_1.m3u8
 北京卫视,http://jf.jxx2023.work:40446/tsfile/live/1031_1.m3u8
@@ -269,25 +288,6 @@ CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
 农林卫视,http://jf.jxx2023.work:40446/tsfile/live/1001_1.m3u8
 康巴卫视,http://jf.jxx2023.work:40446/tsfile/live/0134_1.m3u8
 安多卫视,http://jf.jxx2023.work:40446/tsfile/live/1004_1.m3u8
-
-浙江卫视,http://ms.fxim.net:808/hls/14/index.m3u8
-江苏卫视,http://ms.fxim.net:808/hls/16/index.m3u8
-东方卫视,http://ms.fxim.net:808/hls/17/index.m3u8
-安徽卫视,http://ms.fxim.net:808/hls/18/index.m3u8
-重庆卫视,http://ms.fxim.net:808/hls/19/index.m3u8
-四川卫视,http://ms.fxim.net:808/hls/20/index.m3u8
-天津卫视,http://ms.fxim.net:808/hls/21/index.m3u8
-北京卫视,http://ms.fxim.net:808/hls/22/index.m3u8
-青海卫视,http://ms.fxim.net:808/hls/23/index.m3u8
-辽宁卫视,http://ms.fxim.net:808/hls/24/index.m3u8
-江西卫视,http://ms.fxim.net:808/hls/25/index.m3u8
-甘肃卫视,http://ms.fxim.net:808/hls/26/index.m3u8
-广东卫视,http://ms.fxim.net:808/hls/27/index.m3u8
-吉林卫视,http://ms.fxim.net:808/hls/28/index.m3u8
-湖南卫视,http://ms.fxim.net:808/hls/29/index.m3u8
-湖北卫视,http://ms.fxim.net:808/hls/30/index.m3u8
-河北卫视,http://ms.fxim.net:808/hls/31/index.m3u8
-河南卫视,http://ms.fxim.net:808/hls/32/index.m3u8
 
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
