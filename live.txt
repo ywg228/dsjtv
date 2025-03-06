@@ -55,23 +55,6 @@ CCTV-14少儿,https://migu.bxtv.587788.xyz/migu/624878440.m3u8?migutoken=f53fb35
 CCTV-15音乐,https://migu.bxtv.587788.xyz/migu/673168223.m3u8?migutoken=fe5c8a48b55ae50517a033d486fcffcb1ec1f372d879d03e79f21ffe9fdcd0c37a7a4386305f52fcad4c22fa299babed248e0a7f2d2735987e6eb64064a23436cfdf16f888f1facbca7ceda7dd
 CCTV-17农业农村,https://migu.bxtv.587788.xyz/migu/673168256.m3u8?migutoken=9c57bf003f81ac1dd762ea137951f4436b761c7a5af1219e1b66c05886cede7bf63d6176a53bf9c436223548cf7c48a5e19edd21468586f900ec39cc6f5ea7c067dcf0203ddecb2528721f28d7
 
-CCTV-1综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0.flv
-CCTV-2财经,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qa.flv
-CCTV-3综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/62wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8.flv
-CCTV-4中文国际,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3ed.flv
-CCTV-5体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/61qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7u.flv
-CCTV-6电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tg.flv
-CCTV-7国防军事,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv7ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6yh.flv
-CCTV-8电视剧,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv8ik9ol0p1qaz2wsx3edc4rfv5tgb6yhn7uj.flv
-CCTV-9纪录,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv9ol0p1qaz2wsx3edc4rfv5tgb6yhn7ujm8i.flv
-CCTV-10科教,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv10p1qaz2wsx3edc4rfv5tgb6yhn7ujm8ik.flv
-CCTV-11戏曲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv11qaz2wsx3edc4rfv5tgb6yhn7ujm8ik9ol.flv
-CCTV-12社会与法,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv12wsx3edc4rfv5tgb6yhn7ujm8ik9ol0p1q.flv
-CCTV-13新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv13edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2ws6.flv
-CCTV-14少儿,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv14rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3e.flv
-CCTV-15音乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv15tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4r.flv
-CCTV-17农业农村,http://push-rtmp-hs-spe-f5.douyincdn.com/live/tv17ujm8ik9ol0p1qaz2wsx3edc4rfv5tgb6y.flv
-
 CCTV-1综合,http://huawei.636191.xyz:50001/TVOD/5000000004000002226/bestzb/index.m3u8
 CCTV-2财经,http://huawei.636191.xyz:50001/TVOD/5000000011000031101/bestzb/index.m3u8
 CCTV-3综艺,http://huawei.636191.xyz:50001/TVOD/5000000004000008883/bestzb/index.m3u8
@@ -188,10 +171,6 @@ CCTV-12社会与法,http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8
 青海卫视,https://migu.bxtv.587788.xyz/migu/947472506.m3u8?migutoken=6ab052281dad35b7d70be3823b8f34e4276d33ea93df56a896af16cf7cc5c9639cd8252c7b57fb03fe1b08e70bb3a9457b014ec8baadd4d2abdfc6add919db00444864d2dcd0b31d65d03dbf28
 海南卫视,https://migu.bxtv.587788.xyz/migu/947472502.m3u8?migutoken=7f05ca6b78461cf2a2cf1923f394d2f3824d5b3db3b4e5f04c3fa3aa621167a4419749ff6320e400fe9b9130dbbc4a00b2ee7f8059fb573141bc4031c2ad126b0f685f1f44664d0507a16342c0
 大湾区卫视,https://migu.bxtv.587788.xyz/migu/608917627.m3u8?migutoken=08b01dd57a9f7801a5afd4d26737303ec27325fb8cfaf922425c4471921e19bdd001b6f1e30412215b5f9cf3a61ba475e115cc1cf422f9d2b238edb39d705870f219a5f6d4abfffdfddf6c2f7e
-
-湖南卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hnwsn7ujm8ik9ol0p1qaz2wsx3edc4rfv5tg.flv
-北京卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/bjwsbjm8ik9ol0p1qaz2wsx3edc4rfv5tgb6y.flv
-东方卫视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/shwsshn7ujm8ik9ol0p1qaz2wsx3edc4rfv5t.flv
 
 北京卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000031556/bestzb/index.m3u8
 东方卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000014098/bestzb/index.m3u8
