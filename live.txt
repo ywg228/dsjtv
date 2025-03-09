@@ -677,16 +677,6 @@ CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 成都少儿,http://b.xubo.myds.me:9999/udp/239.93.0.21:1251
 成都蓉城先锋,http://b.xubo.myds.me:9999/udp/239.93.0.91:2101
 
-四川卫视,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/83
-四川文化旅游,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/301
-四川经济,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/302
-四川新闻,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/2096
-四川影视文艺,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/116
-四川妇女儿童,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/303
-四川科教,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/304
-四川乡村,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/2097
-四川峨眉电影,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/306
-
 四川卫视,http://www.cjtt.love:9307/udp/239.253.250.180:8000
 四川卫视,http://117.86.49.18:8888/udp/239.49.8.110:8000
 四川卫视,http://fengwei888888.asuscomm.com:3000/udp/239.49.8.110:8000
