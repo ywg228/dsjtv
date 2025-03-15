@@ -37,6 +37,25 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 中国教育2台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226425
 中国教育4台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225783
 
+CCTV-1综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-2财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV-3综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV-4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV-5体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV-5+体育赛事,http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
+CCTV-6电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV-7国防军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV-8电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV-9纪录,https://tv.bfsu.edu.cn/hls/cctv9hd.m3u8
+CCTV-10科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV-11戏曲,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV-12社会与法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV-13新闻,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV-14少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV-15音乐,https://tv.bfsu.edu.cn/hls/cctv15hd.m3u8
+CCTV-16奥林匹克,https://tv.bfsu.edu.cn/hls/cctv16hd.m3u8
+CCTV-17农业农村,https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8
+
 CCTV-1综合,https://www.shqsy.com/tv/zb/mg.php?id=CCTV1
 CCTV-2财经,https://www.shqsy.com/tv/zb/mg.php?id=CCTV2
 CCTV-3综艺,https://www.shqsy.com/tv/zb/mg.php?id=CCTV3
@@ -56,19 +75,6 @@ CCTV-13新闻,https://www.shqsy.com/tv/zb/mg.php?id=CCTV13
 CCTV-14少儿,https://www.shqsy.com/tv/zb/mg.php?id=CCTV14
 CCTV-15音乐,https://www.shqsy.com/tv/zb/mg.php?id=CCTV15
 CCTV-17农业农村,https://www.shqsy.com/tv/zb/mg.php?id=CCTV17
-
-CCTV-1综合,http://211.67.191.23/hls/cctv1hd/index.m3u8
-CCTV-2财经,http://211.67.191.23/hls/cctv2hd/index.m3u8
-CCTV-3综艺,http://211.67.191.23/hls/cctv3hd/index.m3u8
-CCTV-4中文国际,http://211.67.191.23/hls/cctv4hd/index.m3u8
-CCTV-5体育,http://211.67.191.23/hls/cctv5hd/index.m3u8
-CCTV-5+体育赛事,http://211.67.191.23/hls/cctv5phd/index.m3u8
-CCTV-6电影,http://211.67.191.23/hls/cctv6hd/index.m3u8
-CCTV-7国防军事,http://211.67.191.23/hls/cctv7hd/index.m3u8
-CCTV-8电视剧,http://211.67.191.23/hls/cctv8hd/index.m3u8
-CCTV-10科教,http://211.67.191.23/hls/cctv10hd/index.m3u8
-CCTV-12社会与法,http://211.67.191.23/hls/cctv12hd/index.m3u8
-CCTV-14少儿,http://211.67.191.23/hls/cctv14hd/index.m3u8
 
 CCTV-1综合,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000002226/bestzb/index.m3u8
 CCTV-2财经,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031101/bestzb/index.m3u8
@@ -223,6 +229,14 @@ CCTV-12社会与法,http://jf.jxx2023.work:40446/tsfile/live/0012_1.m3u8
 云南卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000011000031120/bestzb/index.m3u8
 重庆卫视,http://mcr.sakuramoe.dev:5000/TVOD/5000000004000025797/bestzb/index.m3u8
 安多卫视,http://mcr.sakuramoe.dev:5000/TVOD/1000000005000266001/ystenlive/index.m3u8
+
+东方卫视,https://www.shqsy.com/tv/zb/mg.php?id=东方卫视
+广东卫视,https://www.shqsy.com/tv/zb/mg.php?id=广东卫视
+江苏卫视,https://www.shqsy.com/tv/zb/mg.php?id=江苏卫视
+江西卫视,https://www.shqsy.com/tv/zb/mg.php?id=江西卫视
+陕西卫视,https://www.shqsy.com/tv/zb/mg.php?id=陕西卫视
+大湾区卫视,https://www.shqsy.com/tv/zb/mg.php?id=大湾区卫视
+海峡卫视,https://www.shqsy.com/tv/zb/mg.php?id=海峡卫视
 
 浙江卫视,http://ms.fxim.net:808/hls/14/index.m3u8
 江苏卫视,http://ms.fxim.net:808/hls/16/index.m3u8
