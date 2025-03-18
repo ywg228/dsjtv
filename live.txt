@@ -458,11 +458,12 @@ TVBS精采台,http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來戲劇台,http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
 愛爾達娛樂台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC電影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC電影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+PopC電影,http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 八大戲劇台,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
+八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -475,6 +476,7 @@ AMC電影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 AXN台灣,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
+AXN台灣,http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
@@ -482,9 +484,10 @@ ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 韩国娛樂台,http://122.117.71.103:8524/http/220.130.87.218:8081/hls/64/806/ch014.m3u8
-NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+tvN,http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+NHK World,http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 
@@ -502,6 +505,7 @@ CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=419775423561809&edge=edge1.hkdvb.com
 ViuTV6,https://live.hkdvb.com/hls/live/96.m3u8?token=419775423561809&edge=edge1.hkdvb.com
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$4K
+Love Nature,http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
