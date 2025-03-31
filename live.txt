@@ -384,9 +384,9 @@ CGTN纪录,http://39.134.67.106/PLTV/88888888/224/3221225509/1.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 鳳凰資訊,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳳凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰中文,http://113.105.29.43:60901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -431,7 +431,7 @@ Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 民視,http://122.117.71.103:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
 中視,http://122.117.71.103:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
 華視,http://122.117.71.103:8503/http/220.130.87.218:8081/hls/89/80/Cts4max.m3u8
-台視,http://aktv_stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+台視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 中天新聞台,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新聞台,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
@@ -441,11 +441,11 @@ Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 TVBS,http://122.117.71.103:8544/http/220.130.87.218:8081/hls/75/817/ch058.m3u8
 TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 TVBS新聞台,http://122.117.71.103:8543/http/220.130.87.218:8081/hls/75/817/ch059.m3u8
-TVBS新聞台,http://aktv_stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+TVBS新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS精采台,http://aktv_stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
+TVBS精采台,http://aktv-stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 東森新聞台,http://122.117.71.103:8539/http/220.130.87.218:8081/hls/63/805/ch010.m3u8
-東森新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+東森新聞台,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 東森新聞台,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
 東森綜合台,http://122.117.71.103:8525/http/220.130.87.218:8081/hls/67/809/ch025.m3u8
@@ -453,10 +453,10 @@ TVBS精采台,http://aktv_stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 東森電影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森洋片台,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
 東森幼幼台,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
-台視新聞台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-民視,http://aktv_stream.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-民視新聞台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-民視第一台,http://aktv_stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+台視新聞台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+民視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
+民視新聞台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+民視第一台,http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 寰宇新聞台,http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
 寰宇新聞台,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
@@ -471,9 +471,9 @@ TVBS精采台,http://aktv_stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 龍華經典台,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龍華偶像台,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龍華日韓台,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龍華日韓台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-龍華電影台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-龍華偶像台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+龍華日韓台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+龍華偶像台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 緯來綜合台,http://122.117.71.103:8517/http/220.130.87.218:8081/hls/68/810/ch032.m3u8
 緯來戲劇台,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
 緯來電影台,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
@@ -485,17 +485,17 @@ TVBS精采台,http://aktv_stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 緯來日本台,http://122.117.71.103:8536/http/220.130.87.218:8081/hls/69/811/ch034.m3u8
 緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來戲劇台,http://122.117.71.103:8532/http/61.222.53.250:8081/hls/69/811/ch33.m3u8
-愛爾達娛樂台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
+愛爾達娛樂台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
 AMC電影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
-AMC電影台,http://aktv_stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
+AMC電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
-PopC電影,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+PopC電影,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 八大戲劇台,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
 八大戲劇台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
-三立綜合台,http://aktv_stream.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+三立綜合台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
@@ -504,7 +504,7 @@ PopC電影,http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 AXN台灣,http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
-AXN台灣,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+AXN台灣,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
@@ -513,8 +513,8 @@ ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 韩国娛樂台,http://122.117.71.103:8524/http/220.130.87.218:8081/hls/64/806/ch014.m3u8
-tvN,http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-NHK World,http://aktv_stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+NHK World,http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
@@ -533,7 +533,7 @@ CINEMAX,http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$4K
-Love Nature,http://aktv_stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+Love Nature,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
