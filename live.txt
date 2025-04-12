@@ -317,19 +317,29 @@ CGTN纪录,http://39.134.67.106/PLTV/88888888/224/3221225509/1.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,rtmp://116.93.98.236/sat/hk011
 無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+無綫新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧經典台,http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
 娛樂新聞台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 娛樂新聞台,https://lb-mvtv-live.v2h-cdn.com/redirect/enew/enew.stream?type=m3u8
+娛樂新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 美亞電影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亞電影台,http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+明珠劇集台,http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8$北美
+翡翠劇集台,http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8$北美
+翡翠綜合台,http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8$北美
+黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 Astro華麗台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 
