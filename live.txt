@@ -297,21 +297,14 @@ CGTN纪录,http://39.134.67.106/PLTV/88888888/224/3221225509/1.m3u8
 
 国际,#genre#
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
 鳳凰資訊,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-鳳凰資訊,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 鳳凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-鳳凰香港,https://cdn3.163189.xyz/live/fhhk/stream.m3u8
 鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-鳳凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳳凰資訊,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 鳳凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
 
