@@ -174,6 +174,7 @@ CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 
+北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
 湖南卫视,http://itv.iptv1688.top:2016/itv.php?id=湖南卫视
 浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
 江苏卫视,http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
