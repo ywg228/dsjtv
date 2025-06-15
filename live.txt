@@ -305,6 +305,7 @@ Astro劇集台,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 民視,http://122.117.71.103:8504/http/220.130.87.218:8081/hls/85/80/Ftv4max.m3u8
 中視,http://122.117.71.103:8502/http/220.130.87.218:8081/hls/88/80/Ctv4max.m3u8
 華視,http://122.117.71.103:8503/http/220.130.87.218:8081/hls/89/80/Cts4max.m3u8
+中天新聞台,https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
 中天新聞台,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 中天娛樂台,http://122.117.71.103:8526/http/220.130.87.218:8081/hls/67/809/ch026.m3u8
