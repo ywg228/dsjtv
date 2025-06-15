@@ -35,6 +35,27 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 中国教育2台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226425
 中国教育4台,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225783
 
+CCTV-1综合,http://goo.bkpcp.top/mg/cctv1
+CCTV-2财经,http://goo.bkpcp.top/mg/cctv2
+CCTV-3综艺,http://goo.bkpcp.top/mg/cctv3
+CCTV-4中文国际,http://goo.bkpcp.top/mg/cctv4
+CCTV-4美洲,http://goo.bkpcp.top/mg/cctv4m
+CCTV-4欧洲,http://goo.bkpcp.top/mg/cctv4o
+CCTV-5体育,http://goo.bkpcp.top/mg/cctv5
+CCTV-5+体育赛事,http://goo.bkpcp.top/mg/cctv5p
+CCTV-6电影,http://goo.bkpcp.top/mg/cctv6
+CCTV-7国防军事,http://goo.bkpcp.top/mg/cctv7
+CCTV-8电视剧,http://goo.bkpcp.top/mg/cctv8
+CCTV-9纪录,http://goo.bkpcp.top/mg/cctv9
+CCTV-10科教,http://goo.bkpcp.top/mg/cctv10
+CCTV-11戏曲,http://goo.bkpcp.top/mg/cctv11
+CCTV-12社会与法,http://goo.bkpcp.top/mg/cctv12
+CCTV-13新闻,http://goo.bkpcp.top/mg/cctv13
+CCTV-14少儿,http://goo.bkpcp.top/mg/cctv14
+CCTV-15音乐,http://goo.bkpcp.top/mg/cctv15
+CCTV-16奥林匹克,http://goo.bkpcp.top/mg/cctv16
+CCTV-17农业农村,http://goo.bkpcp.top/mg/cctv17
+
 CCTV-1综合,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1综合,http://nas.suntao.online:35455/gaoma/cctv1.m3u8
 CCTV-1综合,http://zjzcf.synology.me:35455/gaoma/cctv1.m3u8
