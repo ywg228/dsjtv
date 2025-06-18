@@ -286,7 +286,7 @@ TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 無綫新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
 TVB星河台,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河台,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧經典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
