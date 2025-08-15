@@ -110,12 +110,12 @@ CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+鳳凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+鳳凰資訊,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+鳳凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 鳳凰中文,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰資訊,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
 鳳凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-鳳凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰資訊,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 鳳凰資訊,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 鳳凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -959,6 +959,7 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
