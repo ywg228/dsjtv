@@ -110,6 +110,9 @@ CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+鳳凰中文,http://api.mytv666.top/api/hk.php?id=6465653065613934326364336430636165653637343630386633623132626433267469643d77696e74763132332669643d32
+鳳凰資訊,http://api.mytv666.top/api/hk.php?id=3466666465333638363063643761373565646565623433626664396162396635267469643d77696e74763132332669643d33
+鳳凰香港,http://api.mytv666.top/api/hk.php?id=6236633663616530356662393862393061363963343963633363333434333733267469643d77696e74763132332669643d34
 鳳凰中文,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 鳳凰資訊,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 鳳凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
@@ -959,6 +962,7 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
