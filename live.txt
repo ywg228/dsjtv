@@ -13,7 +13,7 @@ CCTV-10科教,http://tv.netlive.ggff.net/cctv10
 CCTV-11戏曲,http://tv.netlive.ggff.net/cctv11
 CCTV-12社会与法,http://tv.netlive.ggff.net/cctv12
 CCTV-13新闻,http://tv.netlive.ggff.net/cctv13
-CCTV14少儿,http://tv.netlive.ggff.net/cctv14
+CCTV-14少儿,http://tv.netlive.ggff.net/cctv14
 CCTV-15音乐,http://tv.netlive.ggff.net/cctv15
 CCTV-16奥林匹克,http://tv.netlive.ggff.net/cctv16
 CCTV-17农业农村,http://tv.netlive.ggff.net/cctv17
@@ -950,6 +950,7 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
