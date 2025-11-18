@@ -49,40 +49,38 @@ CCTV-12社会与法,http://ms.fxim.net:808/hls/12/index.m3u8
 
 
 卫视,#genre# 
-北京卫视,http://117.114.153.18:8182/hls/TV00000000000000000090@HHZT.m3u8
-东方卫视,http://117.114.153.18:8182/hls/TV00000000000000000138@HHZT.m3u8
-浙江卫视,http://117.114.153.18:8182/hls/TV00000000000000000102@HHZT.m3u8
-江苏卫视,http://117.114.153.18:8182/hls/TV00000000000000000089@HHZT.m3u8
-湖南卫视,http://117.114.153.18:8182/hls/TV00000000000000000148@HHZT.m3u8
-广东卫视,http://117.114.153.18:8182/hls/TV00000000000000000027@HHZT.m3u8
-深圳卫视,http://117.114.153.18:8182/hls/TV00000000000000000101@HHZT.m3u8
-河北卫视,http://117.114.153.18:8182/hls/TV00000000000000000013@HHZT.m3u8
-河南卫视,http://117.114.153.18:8182/hls/TV00000000000000000016@HHZT.m3u8
-安徽卫视,http://117.114.153.18:8182/hls/TV00000000000000000087@HHZT.m3u8
-江西卫视,http://117.114.153.18:8182/hls/TV00000000000000000019@HHZT.m3u8
-广西卫视,http://117.114.153.18:8182/hls/TV00000000000000000037@HHZT.m3u8
-山东卫视,http://117.114.153.18:8182/hls/TV00000000000000000083@HHZT.m3u8
-东南卫视,http://117.114.153.18:8182/hls/TV00000000000000000156@HHZT.m3u8
-重庆卫视,http://117.114.153.18:8182/hls/TV00000000000000000120@HHZT.m3u8
-四川卫视,http://117.114.153.18:8182/hls/TV00000000000000000033@HHZT.m3u8
-贵州卫视,http://117.114.153.18:8182/hls/TV00000000000000000040@HHZT.m3u8
-天津卫视,http://117.114.153.18:8182/hls/TV00000000000000000085@HHZT.m3u8
-辽宁卫视,http://117.114.153.18:8182/hls/TV00000000000000000119@HHZT.m3u8
-黑龙江卫视,http://117.114.153.18:8182/hls/TV00000000000000000084@HHZT.m3u8
-湖北卫视,http://117.114.153.18:8182/hls/TV00000000000000000086@HHZT.m3u8
-吉林卫视,http://117.114.153.18:8182/hls/TV00000000000000000039@HHZT.m3u8
-甘肃卫视,http://117.114.153.18:8182/hls/TV00000000000000000014@HHZT.m3u8
-内蒙古卫视,http://117.114.153.18:8182/hls/TV00000000000000000010@HHZT.m3u8
-宁夏卫视,http://117.114.153.18:8182/hls/TV00000000000000000018@HHZT.m3u8
-山西卫视,http://117.114.153.18:8182/hls/TV00000000000000000030@HHZT.m3u8
-陕西卫视,http://117.114.153.18:8182/hls/TV00000000000000000038@HHZT.m3u8
-新疆卫视,http://117.114.153.18:8182/hls/TV00000000000000000031@HHZT.m3u8
-云南卫视,http://117.114.153.18:8182/hls/TV00000000000000000028@HHZT.m3u8
-青海卫视,http://117.114.153.18:8182/hls/TV00000000000000000034@HHZT.m3u8
-兵团卫视,http://117.114.153.18:8182/hls/TV00000000000000000107@HHZT.m3u8
-厦门卫视,http://117.114.153.18:8182/hls/TV00000000000000000044@HHZT.m3u8
-西藏卫视,http://117.114.153.18:8182/hls/TV00000000000000000035@HHZT.m3u8
-三沙卫视,http://117.114.153.18:8182/hls/TV00000000000000000041@HHZT.m3u8
+北京卫视,http://tv.netlive.ggff.net/bjws
+东方卫视,http://tv.netlive.ggff.net/dfws
+浙江卫视,http://tv.netlive.ggff.net/zjws
+江苏卫视,http://tv.netlive.ggff.net/jsws
+湖南卫视,http://tv.netlive.ggff.net/hunws
+广东卫视,http://tv.netlive.ggff.net/gdws
+湖北卫视,http://tv.netlive.ggff.net/hubws
+深圳卫视,http://tv.netlive.ggff.net/szws
+东南卫视,http://tv.netlive.ggff.net/dnws
+山东卫视,http://tv.netlive.ggff.net/sdws
+安徽卫视,http://tv.netlive.ggff.net/ahws
+天津卫视,http://tv.netlive.ggff.net/tjws
+辽宁卫视,http://tv.netlive.ggff.net/lnws
+江西卫视,http://tv.netlive.ggff.net/jxws
+河北卫视,http://tv.netlive.ggff.net/hbws
+重庆卫视,http://tv.netlive.ggff.net/cqws
+贵州卫视,http://tv.netlive.ggff.net/gzws
+吉林卫视,http://tv.netlive.ggff.net/jlws
+四川卫视,http://tv.netlive.ggff.net/scws
+海南卫视,http://tv.netlive.ggff.net/hinws
+河南卫视,http://tv.netlive.ggff.net/hnws
+广西卫视,http://tv.netlive.ggff.net/gxws
+山西卫视,http://tv.netlive.ggff.net/sxiws
+云南卫视,http://tv.netlive.ggff.net/ynws
+陕西卫视,http://tv.netlive.ggff.net/sxws
+甘肃卫视,http://tv.netlive.ggff.net/gsws
+宁夏卫视,http://tv.netlive.ggff.net/nxws
+青海卫视,http://tv.netlive.ggff.net/qhws
+新疆卫视,http://tv.netlive.ggff.net/xjws
+西藏卫视,http://tv.netlive.ggff.net/xzws
+黑龙江卫视,http://tv.netlive.ggff.net/hljws
+内蒙古卫视,http://tv.netlive.ggff.net/nmgws
 
 浙江卫视,http://ms.fxim.net:808/hls/14/index.m3u8
 江苏卫视,http://ms.fxim.net:808/hls/16/index.m3u8
@@ -950,6 +948,7 @@ CRI劲曲调频,http://sk.cri.cn/887.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
