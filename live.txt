@@ -133,7 +133,6 @@ TVBS新聞台,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 寰宇新聞台,http://rihou.cc:555/tv/寰宇新闻
 東森新聞台,http://rihou.cc:555/tv/东森新闻
-東森電影台,http://rihou.cc:555/tv/[Hk]东森电影
 東森電影台,http://bx.757888.xyz/api.php?id=dsdy
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
 東森電影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
