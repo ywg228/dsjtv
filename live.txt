@@ -98,13 +98,11 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 鳳凰香港,http://cdn6.163189.xyz/163189/fhhk
 鳳凰資訊,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 鳳凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
-
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-
 澳門蓮花,http://cdn6.163189.xyz/163189/amlh
 澳門Macau,http://cdn6.163189.xyz/163189/as
 澳視澳門,http://cdn6.163189.xyz/163189/asam
@@ -130,7 +128,6 @@ TVB功夫台,http://cdn6.163189.xyz/163189/yzwx
 中天新聞台,http://rihou.cc:555/tv/中天新闻
 中天娛樂台,http://61.221.215.25:8800/hls/47/index.m3u8
 中天亞洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBDB2043146120431461&ct=19234&tsum=ba6deb1dd785ef48ec39eda87a905fb6
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 TVBS,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MF7F4816296948162969&ct=19669&tsum=8410a43db059b92d8109cc06c5b88bc0
 TVBS新聞台,http://rihou.cc:555/tv/[FY]tvbS新闻
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -138,7 +135,6 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 東森新聞台,http://rihou.cc:555/tv/东森新闻
 東森電影台,http://rihou.cc:555/tv/[Hk]东森电影
 東森電影台,http://bx.757888.xyz/api.php?id=dsdy
-東森洋片台,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 東森超視台,rtmp://f13h.mine.nu/sat/tv331
 東森電影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MA9A6947736769477367&ct=19669&tsum=6ee70bdcbdc521d1c43b0bf14a8e5958
 東森洋片台,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC9C2222186722221867&ct=19669&tsum=642159cf8ac6ea1872cdb52cdf521ecf
@@ -155,23 +151,17 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 緯來日本台,rtmp://f13h.mine.nu/sat/tv771
-緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 緯來精采台,http://61.221.215.25:8800/hls/48/index.m3u8
 三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
-PopC電影,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-AXN台灣,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
 MOMO綜合台,rtmp://f13h.mine.nu/sat/tv761
 DAZN體育1台,rtmp://f13h.mine.nu/sat/tv731
 DAZN體育2台,rtmp://f13h.mine.nu/sat/tv741
 ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
-ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-
 金磚中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金磚英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -203,7 +193,7 @@ CHC动作电影,http://211.67.191.23/hls/chcatv/index.m3u8
 CHC影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
 CHC家庭影院,http://222.209.208.234:7088/udp/239.93.42.6:5140
 CHC动作电影,http://222.209.208.234:7088/udp/239.93.42.7:5140
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzd
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 
