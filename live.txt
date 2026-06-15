@@ -181,20 +181,13 @@ Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 
 影视,#genre#
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://113.105.29.43:60901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://113.105.29.43:60901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://113.105.29.43:60901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://211.67.191.23/hls/chctv/index.m3u8
-CHC动作电影,http://211.67.191.23/hls/chcatv/index.m3u8
-CHC影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
-CHC家庭影院,http://222.209.208.234:7088/udp/239.93.42.6:5140
-CHC动作电影,http://222.209.208.234:7088/udp/239.93.42.7:5140
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzd
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+CHC家庭影院,http://211.67.191.23/hls/chctv/index.m3u8
+CHC动作电影,http://211.67.191.23/hls/chcatv/index.m3u8
 
 北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
 北京影视,http://211.67.191.23/hls/btv4hd/index.m3u8
