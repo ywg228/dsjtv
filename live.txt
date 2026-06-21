@@ -98,11 +98,11 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 鳳凰香港,http://cdn6.163189.xyz/163189/fhhk
 鳳凰資訊,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 鳳凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港衛視,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+香港衛視,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+香港衛視,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-環球電視台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+環球電視台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 澳門蓮花,http://cdn6.163189.xyz/163189/amlh
 澳門Macau,http://cdn6.163189.xyz/163189/as
 澳視澳門,http://cdn6.163189.xyz/163189/asam
@@ -177,7 +177,7 @@ Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$4K
 France 24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-支持一下❤️,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
+支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
 
 影视,#genre#
