@@ -180,13 +180,6 @@ CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_356
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 支持一下🙏,https://gitee.com/jay228/tvlive/raw/master/zsm.mp4
 
-世界杯⚽️,#genre#
-CCTV-5体育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
-CCTV-5体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-广东体育,http://61.145.242.11:9088/hls/18/index.m3u8
-广东体育,http://cdn2.163189.xyz/163189/gdty
-FS1,https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
 影视,#genre#
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
@@ -768,6 +761,13 @@ CHC动作电影,http://211.67.191.23/hls/chcatv/index.m3u8
 开州综合,https://yypull.cbg.cn/applive/kzpd02/playlist.m3u8
 梁平综合,https://yypull.cbg.cn/applive/lplive01/chunklist.m3u8
 酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
+
+体育,#genre#
+CCTV-5体育,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
+CCTV-5体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+广东体育,http://61.145.242.11:9088/hls/18/index.m3u8
+广东体育,http://cdn2.163189.xyz/163189/gdty
+澳門體育,http://cdn6.163189.xyz/163189/amty
 
 
 轮播,#genre#
