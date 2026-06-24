@@ -768,7 +768,7 @@ CCTV-5体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 广东体育,http://61.145.242.11:9088/hls/18/index.m3u8
 广东体育,http://cdn2.163189.xyz/163189/gdty
 澳門體育,http://cdn6.163189.xyz/163189/amty
-
+FS1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 
 轮播,#genre#
 成龙,https://live.metshop.top/huya/11342386
